@@ -11,7 +11,7 @@ import model.course.Course;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class Employer {
     private String name;

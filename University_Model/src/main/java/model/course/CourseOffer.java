@@ -11,11 +11,11 @@ import model.person.FacultyAssignment;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class CourseOffer {
-    Course course;
-    FacultyAssignment facultyAssignment;
+    private Course course;
+    private FacultyAssignment facultyAssignment;
 
     public CourseOffer(Course c) {
         course = c;

@@ -9,12 +9,12 @@ import model.course.CourseOffer;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class FacultyAssignment {
 
-    CourseOffer courseoffer;
-    Faculty facultyprofile;
+    private CourseOffer courseoffer;
+    private Faculty facultyprofile;
 
     public FacultyAssignment(Faculty fp, CourseOffer co) {
         courseoffer = co;

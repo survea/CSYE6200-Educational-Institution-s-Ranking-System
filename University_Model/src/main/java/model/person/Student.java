@@ -12,13 +12,13 @@ import model.department.Department;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class Student extends Person {
 
     private CourseCatalog courseCatalog;
     private double gpa;
-    Department department;
+    private Department department;
 
     public Student() {
         courseCatalog = new CourseCatalog(department);

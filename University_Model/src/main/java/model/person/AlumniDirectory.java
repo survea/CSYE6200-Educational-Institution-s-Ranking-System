@@ -11,7 +11,7 @@ import model.department.Department;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class AlumniDirectory {
     private Department department;

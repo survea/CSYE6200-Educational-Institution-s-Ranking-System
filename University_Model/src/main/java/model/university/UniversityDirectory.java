@@ -16,7 +16,7 @@ import model.person.Alumni;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class UniversityDirectory {
 

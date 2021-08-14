@@ -7,7 +7,7 @@ package model.person;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class Person {
 

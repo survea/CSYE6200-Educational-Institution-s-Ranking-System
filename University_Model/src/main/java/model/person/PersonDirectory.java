@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class PersonDirectory {
 

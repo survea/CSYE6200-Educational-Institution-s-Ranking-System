@@ -11,10 +11,10 @@ import model.department.Department;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class CourseCatalog {
-    Department department;
+    private Department department;
     private List<Course> courseList;
 
     public CourseCatalog(Department department) {

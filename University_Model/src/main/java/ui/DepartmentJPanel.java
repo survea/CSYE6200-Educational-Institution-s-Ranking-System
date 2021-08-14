@@ -723,7 +723,7 @@ public class DepartmentJPanel extends javax.swing.JPanel {
         try {
             DefaultTableModel model = (DefaultTableModel) tblStudent.getModel();
             model.setRowCount(0);
-            for (Student student : ((Department) cmbDepartment.getSelectedItem()).getStudentdirectory().studentList) {
+            for (Student student : ((Department) cmbDepartment.getSelectedItem()).getStudentdirectory().getStudentList()) {
                 StringBuffer sb = new StringBuffer();
 
                 for (Course course : student.getCourseCatalog().getCourseList()) {

@@ -20,16 +20,16 @@ import model.person.StudentDirectory;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class Department {
     
     private String departmentName;
     private CourseCatalog courseList;
-    StudentDirectory studentdirectory;
-    FacultyDirectory facultydirectory;
-    AlumniDirectory alumniDirectory;
-    public List<Employer> employerList;
+    private StudentDirectory studentdirectory;
+    private FacultyDirectory facultydirectory;
+    private AlumniDirectory alumniDirectory;
+    private List<Employer> employerList;
     
     public Department(String deptName) {
         departmentName = deptName;

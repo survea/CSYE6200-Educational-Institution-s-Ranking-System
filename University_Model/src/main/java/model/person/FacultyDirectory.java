@@ -10,11 +10,11 @@ import model.department.Department;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class FacultyDirectory {
-    Department department;
-    List<Faculty> facultyList;
+    private Department department;
+    private List<Faculty> facultyList;
 
     public FacultyDirectory(Department department) {
         department = department;

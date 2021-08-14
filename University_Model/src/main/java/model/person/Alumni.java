@@ -15,7 +15,7 @@ import model.person.alumniEmployment.EmploymentHistory;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class Alumni extends Student {
 

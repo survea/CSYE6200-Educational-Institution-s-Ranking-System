@@ -11,12 +11,12 @@ import model.department.Department;
 
 /**
  *
- * @author Hp
+ * @author DikshaGodse
  */
 public class StudentDirectory {
 
-    Department department;
-    public List<Student> studentList;
+    private Department department;
+    private List<Student> studentList;
 
 //    public StudentDirectory() {
 //        studentDir = new ArrayList<>();
