@@ -10,12 +10,8 @@ import java.util.Formatter;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
-import model.course.Course;
 import model.department.Department;
-import model.employer.Employer;
 import model.person.Alumni;
-import model.person.Faculty;
-import model.person.Student;
 import model.university.University;
 import model.university.UniversityDirectory;
 
@@ -453,15 +449,22 @@ public class StudentAlumniJPanel extends javax.swing.JPanel {
     private void jTabbedPane1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTabbedPane1MouseClicked
         // TODO add your handling code here:
         int index = jTabbedPane1.getSelectedIndex();
-        if (index == 0) {
-            populateCourseTable();
-        } else if (index == 1) {
-            populateAlumniTable();
-        } else if (index == 2) {
-            populateEmployerTable();
-        } else if (index == 3) {
-            populateFacultyTable();
-        } 
+        switch (index) {
+            case 0:
+                populateCourseTable();
+                break;
+            case 1:
+                populateAlumniTable();
+                break;
+            case 2:
+                populateEmployerTable(); 
+                break;
+            case 3:
+                populateFacultyTable();
+                break;
+            default:
+                break;
+        }
     }//GEN-LAST:event_jTabbedPane1MouseClicked
 
     private void jTabbedPane1StateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_jTabbedPane1StateChanged
@@ -518,13 +521,14 @@ public class StudentAlumniJPanel extends javax.swing.JPanel {
         try {
             DefaultTableModel model = (DefaultTableModel) tblCourse.getModel();
             model.setRowCount(0);
-            for (Course course : ((Department) cmbDepartment.getSelectedItem()).getCourseList().getCourseList()) {
+            ((Department) cmbDepartment.getSelectedItem()).getCourseList().getCourseList().stream().map(course -> {
                 StringBuffer sb = new StringBuffer();
-
-                for (String courceContent : course.getCourseContentList()) {
+                course.getCourseContentList().stream().map(courceContent -> {
                     sb.append(courceContent);
+                    return courceContent;
+                }).forEachOrdered(_item -> {
                     sb.append(", ");
-                }
+                });
                 Formatter formatRatingPercent = new Formatter();
                 formatRatingPercent.format("%.2f", course.getRatingPercent());
                 String courseContentString = sb.toString();
@@ -533,8 +537,10 @@ public class StudentAlumniJPanel extends javax.swing.JPanel {
                 row[1] = course.getCourseName();
                 row[2] = courseContentString;
                 row[3] = String.valueOf(formatRatingPercent);
+                return row;
+            }).forEachOrdered(row -> {
                 model.addRow(row);
-            }
+            });
         } catch (Exception e) {
 
         }
@@ -542,22 +548,23 @@ public class StudentAlumniJPanel extends javax.swing.JPanel {
 
     private void populateDepartmentCombo() {
         cmbDepartment.removeAllItems();
-        for (Department dept : university.getDepartmentList()) {
+        university.getDepartmentList().forEach(dept -> {
             cmbDepartment.addItem(dept);
-        }
+        });
     }
 
     private void populateAlumniTable() {
         try {
             DefaultTableModel model = (DefaultTableModel) tblAlumni.getModel();
             model.setRowCount(0);
-            for (Alumni alumni : ((Department) cmbDepartment.getSelectedItem()).getAlumniDirectory().getAlumniDir()) {
+            ((Department) cmbDepartment.getSelectedItem()).getAlumniDirectory().getAlumniDir().stream().map(alumni -> {
                 StringBuffer sb = new StringBuffer();
-
-                for (Course course : alumni.getCourseCatalog().getCourseList()) {
+                alumni.getCourseCatalog().getCourseList().stream().map(course -> {
                     sb.append(course.getCourseCode());
+                    return course;
+                }).forEachOrdered(_item -> {
                     sb.append(", ");
-                }
+                });
                 String courseNameString = sb.toString();
                 Object row[] = new Object[6];
                 row[0] = alumni;
@@ -566,8 +573,10 @@ public class StudentAlumniJPanel extends javax.swing.JPanel {
                 row[3] = alumni.getEmployer();
                 row[4] = String.valueOf(alumni.getSalary());
                 row[5] = String.valueOf(alumni.getEmploymentRatingPercent());
+                return row;
+            }).forEachOrdered(row -> {
                 model.addRow(row);
-            }
+            });
         } catch (Exception e) {
 
         }
@@ -577,21 +586,24 @@ public class StudentAlumniJPanel extends javax.swing.JPanel {
         try {
             DefaultTableModel model = (DefaultTableModel) tblEmployee.getModel();
             model.setRowCount(0);
-            for (Employer employer : ((Department) cmbDepartment.getSelectedItem()).getEmployerList()) {
+            ((Department) cmbDepartment.getSelectedItem()).getEmployerList().stream().map(employer -> {
                 StringBuffer sb = new StringBuffer();
-
-                for (String courceContent : employer.getEmploymentCourses()) {
+                employer.getEmploymentCourses().stream().map(courceContent -> {
                     sb.append(courceContent);
+                    return courceContent;
+                }).forEachOrdered(_item -> {
                     sb.append(", ");
-                }
+                });
                 String courseContentString = sb.toString();
                 Object row[] = new Object[4];
                 row[0] = employer.getName();
                 row[1] = courseContentString;
-//                row[2] = courseContentString;
+                return row;
+            }).forEachOrdered(row -> {
+                //                row[2] = courseContentString;
 //                row[3] = String.valueOf(course.getRatingPercent());
-                model.addRow(row);
-            }
+model.addRow(row);
+            });
         } catch (Exception e) {
 
         }
@@ -602,22 +614,25 @@ public class StudentAlumniJPanel extends javax.swing.JPanel {
             DefaultTableModel model = (DefaultTableModel) tblFaculty.getModel();
             model.setRowCount(0);
             department = (Department) cmbDepartment.getSelectedItem();
-            for (Faculty faculty : (department).getFacultydirectory().getFacultyList()) {
+            (department).getFacultydirectory().getFacultyList().stream().map(faculty -> {
                 StringBuffer sb = new StringBuffer();
-
-                for (Course course : faculty.getCourseList().getCourseList()) {
+                faculty.getCourseList().getCourseList().stream().map(course -> {
                     sb.append(course.getCourseCode());
+                    return course;
+                }).forEachOrdered(_item -> {
                     sb.append(", ");
-                }
+                });
                 faculty.calcRating();
                 String courseNameString = sb.toString();
                 Object row[] = new Object[4];
                 row[0] = String.valueOf(faculty.getFirstName() + " " + faculty.getLastName());
                 row[1] = courseNameString;
-//                row[2] = courseContentString;
+                //                row[2] = courseContentString;
                 row[3] = String.valueOf(faculty.getRating());
+                return row;
+            }).forEachOrdered(row -> {
                 model.addRow(row);
-            }
+            });
         } catch (Exception e) {
 
         }

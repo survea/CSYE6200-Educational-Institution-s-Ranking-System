@@ -7,7 +7,6 @@ package model.employer;
 
 import java.util.ArrayList;
 import java.util.List;
-import model.course.Course;
 
 /**
  *

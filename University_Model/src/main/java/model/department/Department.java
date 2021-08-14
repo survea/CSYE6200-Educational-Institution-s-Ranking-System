@@ -6,7 +6,6 @@
 package model.department;
 
 import java.util.ArrayList;
-import java.util.Formatter;
 import java.util.List;
 import model.course.Course;
 import model.course.CourseCatalog;

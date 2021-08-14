@@ -202,12 +202,14 @@ public class AlumniFeedbackJPanel extends javax.swing.JPanel {
             DefaultTableModel model = (DefaultTableModel) tblCourseFeedback.getModel();
             model.setRowCount(0);
 
-            for (Course course : alumni.getCourseCatalog().getCourseList()) {
+            alumni.getCourseCatalog().getCourseList().stream().map(course -> {
                 Object row[] = new Object[2];
                 row[0] = course.getCourseCode();
                 row[1] = course.getCourseRating();
+                return row;
+            }).forEachOrdered(row -> {
                 model.addRow(row);
-          }
+            });
         } catch (Exception e) {
 
         }
@@ -217,13 +219,17 @@ public class AlumniFeedbackJPanel extends javax.swing.JPanel {
          try {
             DefaultTableModel model = (DefaultTableModel) tblFacultyFeedback.getModel();
             model.setRowCount(0);
-            for (Faculty faculty : department.getFacultydirectory().getFacultyList()){
+            department.getFacultydirectory().getFacultyList().stream().map(faculty -> {
                 faculty.calcRating();
-                Object row[] = new Object[2];
-                row[0] = String.valueOf(faculty.getFirstName() + " " + faculty.getLastName());
-                row[1] = String.valueOf(faculty.getRating());
-                model.addRow(row);
-            }
+                 return faculty;
+             }).map(faculty -> {
+                 Object row[] = new Object[2];
+                 row[0] = String.valueOf(faculty.getFirstName() + " " + faculty.getLastName());
+                 row[1] = String.valueOf(faculty.getRating());
+                 return row;
+             }).forEachOrdered(row -> {
+                 model.addRow(row);
+             });
         } catch (Exception e) {
 
         }

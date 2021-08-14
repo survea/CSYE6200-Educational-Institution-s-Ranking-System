@@ -17,8 +17,8 @@ public class FacultyDirectory {
     private List<Faculty> facultyList;
 
     public FacultyDirectory(Department department) {
-        department = department;
-        facultyList = new ArrayList();
+        this.department = department;
+        this.facultyList = new ArrayList();
     }
 
     public List<Faculty> getFacultyList() {

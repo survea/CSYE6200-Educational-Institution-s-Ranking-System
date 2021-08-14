@@ -19,7 +19,7 @@ public class CourseCatalog {
 
     public CourseCatalog(Department department) {
         courseList = new ArrayList<>();
-        department = department;
+        this.department = department;
     }
 
     public List<Course> getCourseList() {

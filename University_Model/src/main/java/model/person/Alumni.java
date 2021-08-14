@@ -70,6 +70,7 @@ public class Alumni extends Student {
         return courseCatalog;
     }
 
+    @Override
     public void setCourseCatalog(CourseCatalog courseCatalog) {
         this.courseCatalog = courseCatalog;
     }

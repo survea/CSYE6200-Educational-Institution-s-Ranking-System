@@ -16,7 +16,7 @@ public class EmployerDirectory {
     public static List<Employer> employerList;
 
     public EmployerDirectory() {
-        employerList = new ArrayList<Employer>();
+        employerList = new ArrayList<>();
     }
 
     public static List<Employer> addEmployer(Employer employer) {

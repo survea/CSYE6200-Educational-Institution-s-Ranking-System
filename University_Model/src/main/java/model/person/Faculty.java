@@ -94,9 +94,7 @@ public class Faculty extends Person {
     public void calcRating() {
 //        int sum = allRatings.stream().mapToInt(Integer::intValue).sum();
         int sum = 0;
-        for (int i : allRatings) {
-            sum += i;
-        }
+        sum = allRatings.stream().map(i -> i).reduce(sum, Integer::sum);
         setRating(sum / allRatings.size());
     }
 }

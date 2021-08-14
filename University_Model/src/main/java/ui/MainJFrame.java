@@ -203,10 +203,8 @@ public class MainJFrame extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new MainJFrame().setVisible(true);
-            }
+        java.awt.EventQueue.invokeLater(() -> {
+            new MainJFrame().setVisible(true);
         });
     }
 
@@ -220,14 +218,14 @@ public class MainJFrame extends javax.swing.JFrame {
     }
 
     private void addDepartmentCourses(Department infoSys, List<String> csvCourseList) {
-        for (String csvCourse : csvCourseList) {
-            String[] tokens = csvCourse.split(COMMA_DELIMITER);
-            Course newCourse = new Course(tokens[0], tokens[1], tokens[2], Integer.parseInt(tokens[3]));
+        csvCourseList.stream().map(csvCourse -> csvCourse.split(COMMA_DELIMITER)).map(tokens -> new Course(tokens[0], tokens[1], tokens[2], Integer.parseInt(tokens[3]))).map(newCourse -> {
             for (int i = 0; i < 3; i++) {
                 newCourse.addCourseContent(empCourses[rand.nextInt(empCourses.length)]);
             }
+            return newCourse;
+        }).forEachOrdered(newCourse -> {
             infoSys.addCourse(newCourse);
-        }
+        });
     }
 
     private void addDepartmentStudents(Department dept, String[] newStudents) {

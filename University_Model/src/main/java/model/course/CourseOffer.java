@@ -5,7 +5,6 @@
  */
 package model.course;
 
-import java.util.ArrayList;
 import model.person.Faculty;
 import model.person.FacultyAssignment;
 
