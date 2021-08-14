@@ -220,10 +220,17 @@ public class CoursesJPanel extends javax.swing.JPanel {
         if(txtCourseCode.getText().isEmpty() | txtKeyword.getText().isEmpty()|txtCourseName.getText().isEmpty()|txtCredits.getText().isEmpty()|txtDesc.getText().isEmpty()){
             JOptionPane.showMessageDialog(this, "Please fillup all the fields","Error",JOptionPane.ERROR_MESSAGE);  
         } else {
+            int credit;
+            try{
+                credit = Integer.parseInt(txtCredits.getText());
+            } catch(Exception e){
+                JOptionPane.showMessageDialog(null, "Please enter credits in integer","Error",JOptionPane.ERROR_MESSAGE);
+                return;
+            }
             Course course = new Course();
             course.setCourseCode(txtCourseCode.getText());
             course.setCourseName(txtCourseName.getText());
-            course.setCredits(Integer.parseInt(txtCredits.getText()));
+            course.setCredits(credit);
             course.setCourseDescription(txtDesc.getText());
             String keyword = txtKeyword.getText();
             List<String> key = new ArrayList<>();

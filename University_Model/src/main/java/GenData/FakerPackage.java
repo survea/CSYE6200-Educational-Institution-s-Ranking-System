@@ -36,6 +36,4 @@ public class FakerPackage {
         return univs;
     }
 
-
-
 }

@@ -221,12 +221,19 @@ public class EmploymentHistoryJPanel extends javax.swing.JPanel {
                 JOptionPane.showMessageDialog(null, "Date of Resignation should be after Date of Joining","Error",JOptionPane.ERROR_MESSAGE);
                 return;
             }
+            double salary;
+            try{
+                salary = Double.parseDouble(txtSalary.getText());
+            } catch(Exception e){
+                JOptionPane.showMessageDialog(null, "Please enter salary in double","Error",JOptionPane.ERROR_MESSAGE);
+                return;
+            }
             EmploymentHistory employmentHis = new EmploymentHistory();
             employmentHis.setEmployerName(txtEmployer.getText());
             employmentHis.setPostion(cmbPosition.getSelectedItem().toString());
             employmentHis.setJoiningDate(txtDOJ.getDate());
             employmentHis.setResignationDate(txtDOR.getDate());
-            employmentHis.setSalary(Double.parseDouble(txtSalary.getText()));
+            employmentHis.setSalary(salary);
             alumni.addEmploymentHistory(employmentHis);
             JOptionPane.showMessageDialog(this, " Information Submitted!");
             backMethod();
