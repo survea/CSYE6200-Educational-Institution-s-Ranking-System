@@ -20,7 +20,7 @@ public class LoginScreen extends javax.swing.JPanel {
     /**
      * Creates new form LoginScreen
      */
-    JPanel mainWorkArea;
+    private JPanel mainWorkArea;
     public LoginScreen(JPanel mainWorkArea) {
         initComponents();
         this.mainWorkArea = mainWorkArea;

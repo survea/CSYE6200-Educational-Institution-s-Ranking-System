@@ -22,11 +22,11 @@ public class EmploymentHistoryJPanel extends javax.swing.JPanel {
     /**
      * Creates new form CoursesJPanel
      */
-    JPanel mainWorkArea;
-    University university;
-    Alumni alumni;
-    Department department;
-    String view;
+    private JPanel mainWorkArea;
+    private University university;
+    private Alumni alumni;
+    private Department department;
+    private String view;
     public EmploymentHistoryJPanel(JPanel mainWorkArea,University university,Alumni alumni,Department department,String view) {
         initComponents();
         this.mainWorkArea = mainWorkArea;

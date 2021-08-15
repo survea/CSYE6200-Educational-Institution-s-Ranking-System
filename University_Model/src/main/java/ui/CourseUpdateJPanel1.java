@@ -20,9 +20,9 @@ public class CourseUpdateJPanel1 extends javax.swing.JPanel {
     /**
      * Creates new form CoursesJPanel
      */
-    JPanel mainWorkArea;
-    University university;
-    Course course;
+    private JPanel mainWorkArea;
+    private University university;
+    private Course course;
     public CourseUpdateJPanel1(JPanel mainWorkArea,University university,Course course) {
         initComponents();
         this.mainWorkArea = mainWorkArea;

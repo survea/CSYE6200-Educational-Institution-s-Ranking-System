@@ -23,9 +23,9 @@ public class CoursesJPanel extends javax.swing.JPanel {
     /**
      * Creates new form CoursesJPanel
      */
-    JPanel mainWorkArea;
-    University university;
-    Department department;
+    private JPanel mainWorkArea;
+    private University university;
+    private Department department;
     public CoursesJPanel(JPanel mainWorkArea, University university,Department department) {
         initComponents();
         this.mainWorkArea = mainWorkArea;

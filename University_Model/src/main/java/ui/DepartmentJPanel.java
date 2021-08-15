@@ -30,11 +30,10 @@ public class DepartmentJPanel extends javax.swing.JPanel {
     /**
      * Creates new form DepartmentJPanel
      */
-    JPanel mainWorkArea;
-
-    University university;
-    Department department;
-    String view;
+    private JPanel mainWorkArea;
+    private University university;
+    private Department department;
+    private String view;
     DepartmentJPanel(JPanel mainWorkArea, University university,String view) {
         initComponents();
         this.mainWorkArea = mainWorkArea;
