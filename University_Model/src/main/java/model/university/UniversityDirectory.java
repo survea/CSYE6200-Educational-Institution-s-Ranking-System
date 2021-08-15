@@ -20,11 +20,20 @@ import model.person.Alumni;
  */
 public class UniversityDirectory {
 
+    private static UniversityDirectory uniDirObject;
+
     private static List<University> universityList;
     private static Map alumniGpaSalaryRelation;
 
-    public UniversityDirectory() {
+    private UniversityDirectory() {
         universityList = new ArrayList<>();
+    }
+
+    public static UniversityDirectory getInstance() {
+        if (uniDirObject == null) {
+            uniDirObject = new UniversityDirectory();
+        }
+        return uniDirObject;
     }
 
     public static List<University> getUniversityList() {

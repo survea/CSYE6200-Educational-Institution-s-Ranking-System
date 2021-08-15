@@ -34,6 +34,7 @@ public class Student extends Person {
         return courseCatalog;
     }
 
+    @Override
     public void setCourseCatalog(CourseCatalog courseCatalog) {
         this.courseCatalog = courseCatalog;
     }
@@ -42,11 +43,13 @@ public class Student extends Person {
         return gpa;
     }
 
+    @Override
     public void setGpa(double gpa) {
         this.gpa = gpa;
     }
 
-    public void addStudentCourse(Course course) {
+    @Override
+    public void addNewCourse(Course course) {
         courseCatalog.addCourse(course);
     }
 

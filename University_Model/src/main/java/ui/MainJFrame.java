@@ -12,15 +12,19 @@ import model.course.CourseCatalog;
 import model.department.Department;
 import model.employer.Employer;
 import model.employer.EmployerDirectory;
+import model.fileUtil.FileUtil;
 import model.person.Alumni;
 import model.person.AlumniDirectory;
 import model.person.Faculty;
+import model.person.Person;
 import model.person.PersonDirectory;
 import model.person.Student;
 import model.person.StudentDirectory;
 import model.person.alumniEmployment.EmploymentHistory;
 import model.university.University;
 import model.university.UniversityDirectory;
+import model.universityFactories.PersonFactory;
+import model.universityFactories.PersonType;
 
 /**
  *
@@ -109,10 +113,13 @@ public class MainJFrame extends javax.swing.JFrame {
 //        courseCatalog = new CourseCatalog();
         personDir = new PersonDirectory();
 //        alumniDirectory = new AlumniDirectory();
-        univDir = new UniversityDirectory();
+        univDir = UniversityDirectory.getInstance();
 
         University northeastern = new University();
-        List<String> csvCourseList = new ArrayList<>(Arrays.asList(newCourseList));
+//        List<String> csvCourseList = new ArrayList<>(Arrays.asList(newCourseList));
+//
+//        // Write student CSV data to FileIODemo and read the file.
+//        FileUtil.writeCsvFile(csvCourseList, "CSVCourseListFile");
         northeastern.setUniversityName("Northeastern University");
         University bostonUni = new University();
         bostonUni.setUniversityName("Boston University");
@@ -125,7 +132,7 @@ public class MainJFrame extends javax.swing.JFrame {
             }
             for (Department dept : uni.getDepartmentList()) {
 
-                addDepartmentCourses(dept, csvCourseList);
+                addDepartmentCourses(dept);
                 addDepartmentStudents(dept, newStudents);
                 addDepartmentFaculty(dept, facultyData);
                 addDepartmentEmployers(dept, employeeList, empCourses);
@@ -217,8 +224,10 @@ public class MainJFrame extends javax.swing.JFrame {
 
     }
 
-    private void addDepartmentCourses(Department infoSys, List<String> csvCourseList) {
-        csvCourseList.stream().map(csvCourse -> csvCourse.split(COMMA_DELIMITER)).map(tokens -> new Course(tokens[0], tokens[1], tokens[2], Integer.parseInt(tokens[3]))).map(newCourse -> {
+    private void addDepartmentCourses(Department infoSys) {
+        
+        List<String> courseDataRead = FileUtil.readCsvFile("CSVCourseListFile");
+        courseDataRead.stream().map(csvCourse -> csvCourse.split(COMMA_DELIMITER)).map(tokens -> new Course(tokens[0], tokens[1], tokens[2], Integer.parseInt(tokens[3]))).map(newCourse -> {
             for (int i = 0; i < 3; i++) {
                 newCourse.addCourseContent(empCourses[rand.nextInt(empCourses.length)]);
             }
@@ -243,34 +252,36 @@ public class MainJFrame extends javax.swing.JFrame {
 //            String[] tokens = student.split(COMMA_DELIMITER);
         for (int studCount = 0; studCount < 50; studCount++) {
             //        Student studentDetails = new Student(faker.number().randomDouble(2, 0, 4), faker.number().randomDigitNotZero(), faker.name().firstName(), faker.name().lastName(), faker.number().randomDigitNotZero());
-            Student studentDetails = new Student();
+//            Student studentDetails = new Student();
+            Person studentDetails = PersonFactory.getPerson(PersonType.STUDENT, dept);
             studentDetails.setGpa(faker.number().randomDouble(2, 3, 4));
             studentDetails.setId(faker.number().randomDigitNotZero());
             studentDetails.setFirstName(faker.name().firstName());
             studentDetails.setLastName(faker.name().lastName());
             studentDetails.setAge(faker.number().randomDigitNotZero());
             for (int i = 0; i < 3; i++) {
-                studentDetails.addStudentCourse(dept.getCourseList().getCourseList().get(rand.nextInt(dept.getCourseList().getCourseList().size())));
+                studentDetails.addNewCourse(dept.getCourseList().getCourseList().get(rand.nextInt(dept.getCourseList().getCourseList().size())));
             }
-            dept.addStudent(studentDetails);
+            dept.addStudent((Student) studentDetails);
             PersonDirectory.addPerson(studentDetails);
         }
     }
 
     private void addDepartmentFaculty(Department dept, String[] newFaculties) {
         for (int facultyCount = 0; facultyCount < 50; facultyCount++) {
-            Faculty facultyDetails = new Faculty(dept);
+//            Faculty facultyDetails = new Faculty(dept);
+            Person facultyDetails = PersonFactory.getPerson(PersonType.FACULTY, dept);
             facultyDetails.setId(faker.number().randomDigitNotZero());
             facultyDetails.setFirstName(faker.name().firstName());
             facultyDetails.setLastName(faker.name().lastName());
             facultyDetails.setAge(faker.number().randomDigitNotZero());
             for (int i = 1; i <= 5; i++) {
-                facultyDetails.addNewRating(faker.number().numberBetween(2, 5));
+                (facultyDetails).addNewRating(faker.number().numberBetween(2, 5));
             }
             for (int i = 0; i < 3; i++) {
                 facultyDetails.addNewCourse(dept.getCourseList().getCourseList().get(rand.nextInt(dept.getCourseList().getCourseList().size())));
             }
-            dept.addFaculty(facultyDetails);
+            dept.addFaculty((Faculty) facultyDetails);
             PersonDirectory.addPerson(facultyDetails);
         }
 //        List<String> csvFacultyList = new ArrayList<>(Arrays.asList(newFaculties));
@@ -334,6 +345,7 @@ public class MainJFrame extends javax.swing.JFrame {
         for (int alumniCount = 0; alumniCount < 50; alumniCount++) {
             //        Student studentDetails = new Student(faker.number().randomDouble(2, 0, 4), faker.number().randomDigitNotZero(), faker.name().firstName(), faker.name().lastName(), faker.number().randomDigitNotZero());
             Alumni alumniDetails = new Alumni(dept);
+//            Person alumniDetails = PersonFactory.getPerson(PersonType.ALUMNI, dept);
             alumniDetails.setGpa(faker.number().randomDouble(2, 2, 4));
             alumniDetails.setId(faker.number().randomDigitNotZero());
             alumniDetails.setFirstName(faker.name().firstName());
@@ -342,7 +354,7 @@ public class MainJFrame extends javax.swing.JFrame {
             alumniDetails.setGraduationYear(faker.date().birthday(1, 5));
 
             for (int i = 0; i < 2; i++) {
-                alumniDetails.addCourse(dept.getCourseList().getCourseList().get(rand.nextInt(dept.getCourseList().getCourseList().size())));
+                alumniDetails.addNewCourse(dept.getCourseList().getCourseList().get(rand.nextInt(dept.getCourseList().getCourseList().size())));
                 EmploymentHistory empHistory = new EmploymentHistory();
                 empHistory.setEmployerName(faker.company().name());
                 empHistory.setJoiningDate(faker.date().birthday());
@@ -356,7 +368,7 @@ public class MainJFrame extends javax.swing.JFrame {
             alumniDetails.setJobPostion(alumniDetails.getEmploymentHistory().get(alumniDetails.getEmploymentHistory().size() - 1).getPostion());
             alumniDetails.setEmployer(alumniDetails.getEmploymentHistory().get(alumniDetails.getEmploymentHistory().size() - 1).getEmployerName());
             alumniDetails.calcEmploymentRating();
-            dept.addAlumni(alumniDetails);
+            dept.addAlumni((Alumni) alumniDetails);
 
             PersonDirectory.addPerson(alumniDetails);
         }
