@@ -5,6 +5,9 @@
  */
 package model.person;
 
+import model.course.Course;
+import model.course.CourseCatalog;
+
 /**
  *
  * @author DikshaGodse
@@ -66,6 +69,15 @@ public class Person {
     public void setDob(String dob) {
         this.dob = dob;
     }
+
+    public void setGpa(double gpa) {};
+    
+    public void setCourseCatalog(CourseCatalog courseCatalog) {};
+    
+    public void addNewCourse(Course course) {};
+    
+    public void addNewRating(int newRating) {};
+    public void setGraduationYear() {};
 
     @Override
     public String toString() {

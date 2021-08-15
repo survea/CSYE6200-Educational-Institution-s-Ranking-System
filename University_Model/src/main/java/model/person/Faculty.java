@@ -23,7 +23,7 @@ public class Faculty extends Person {
     private List<Integer> allRatings;
     private List<FacultyAssignment> facultyAssignments;
     private double salary;
-
+    
     public Faculty(Department department) {
         allRatings = new ArrayList<>();
         courseList = new CourseCatalog(department);
@@ -92,7 +92,6 @@ public class Faculty extends Person {
     }
 
     public void calcRating() {
-//        int sum = allRatings.stream().mapToInt(Integer::intValue).sum();
         int sum = 0;
         sum = allRatings.stream().map(i -> i).reduce(sum, Integer::sum);
         setRating(sum / allRatings.size());

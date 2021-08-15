@@ -61,9 +61,9 @@ public class Alumni extends Student {
         this.employmentHistory = employmentHistory;
     }
 
-    public CourseCatalog addCourse(Course course) {
+    @Override
+    public void addNewCourse(Course course) {
         courseCatalog.addCourse(course);
-        return courseCatalog;
     }
 
     public CourseCatalog getCourseCatalog() {
