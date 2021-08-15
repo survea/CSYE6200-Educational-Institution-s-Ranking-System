@@ -109,7 +109,7 @@ public class MainJFrame extends javax.swing.JFrame {
 //        courseCatalog = new CourseCatalog();
         personDir = new PersonDirectory();
 //        alumniDirectory = new AlumniDirectory();
-        univDir = new UniversityDirectory();
+        univDir = UniversityDirectory.getInstance();
 
         University northeastern = new University();
         List<String> csvCourseList = new ArrayList<>(Arrays.asList(newCourseList));
