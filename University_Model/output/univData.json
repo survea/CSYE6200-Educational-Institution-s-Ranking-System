@@ -1,0 +1,5539 @@
+{
+  "Morar University": {
+    "Nutrition": {
+      "courses": {
+        "NUTR6387": {
+          "credits": 4,
+          "name": "Accounting Government"
+        },
+        "NUTR6789": {
+          "credits": 2,
+          "name": "Marketing IT"
+        },
+        "NUTR7602": {
+          "credits": 4,
+          "name": "Consulting Community-Services"
+        }
+      },
+      "students": {
+        "2312593": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Communications",
+            "GPA": 0.26
+          },
+          "name": "Ms. Lanny Treutel",
+          "employment": [
+            {
+              "Industry": "Ranching",
+              "Company": "Donnelly Inc",
+              "Profession": "chef",
+              "Key Skills": "Networking skills",
+              "Email": "jon.cummings@hotmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Associate",
+              "Job title": "International Executive",
+              "Website": "www.pauletta-jacobi.info",
+              "Seniority": "Regional"
+            },
+            {
+              "Industry": "Arts and Crafts",
+              "Company": "Farrell, Wyman and Kassulke",
+              "Profession": "lecturer",
+              "Key Skills": "Confidence",
+              "Email": "shaquita.bauch@gmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Specialist",
+              "Job title": "Retail Associate",
+              "Website": "www.elliot-davis.io",
+              "Seniority": "Senior"
+            }
+          ]
+        },
+        "6889741": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Arts",
+            "GPA": 2.78
+          },
+          "name": "Leonard Howe",
+          "employment": [
+            {
+              "Industry": "Libraries",
+              "Company": "Gibson LLC",
+              "Profession": "hairdresser",
+              "Key Skills": "Work under pressure",
+              "Email": "francisco.grant@yahoo.com",
+              "Job Field": "Construction",
+              "Job Position": "Orchestrator",
+              "Job title": "Direct Design Producer",
+              "Website": "www.kyle-ratke.info",
+              "Seniority": "National"
+            }
+          ]
+        },
+        "4313465": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Communications",
+            "GPA": 2.98
+          },
+          "name": "Delpha Haley",
+          "employment": [
+            {
+              "Industry": "Professional Training \u0026 Coaching",
+              "Company": "Feest-Mann",
+              "Profession": "accountant",
+              "Key Skills": "Work under pressure",
+              "Email": "lorrine.rosenbaum@hotmail.com",
+              "Job Field": "Real-Estate",
+              "Job Position": "Technician",
+              "Job title": "Forward Officer",
+              "Website": "www.jeane-keeling.info",
+              "Seniority": "Human"
+            },
+            {
+              "Industry": "Aviation \u0026 Aerospace",
+              "Company": "Barrows-Bauch",
+              "Profession": "butcher",
+              "Key Skills": "Networking skills",
+              "Email": "brooks.kautzer@yahoo.com",
+              "Job Field": "Mining",
+              "Job Position": "Liaison",
+              "Job title": "International Marketing Assistant",
+              "Website": "www.elli-gorczany.biz",
+              "Seniority": "Direct"
+            },
+            {
+              "Industry": "Management Consulting",
+              "Company": "Kihn-Walter",
+              "Profession": "judge",
+              "Key Skills": "Fast learner",
+              "Email": "bong.fadel@hotmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Associate",
+              "Job title": "Human Consultant",
+              "Website": "www.ken-emmerich.org",
+              "Seniority": "International"
+            }
+          ]
+        },
+        "2485023": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Engineering",
+            "GPA": 2.93
+          },
+          "name": "Clarinda Grimes",
+          "employment": [
+            {
+              "Industry": "Fine Art",
+              "Company": "Stehr-Casper",
+              "Profession": "teacher",
+              "Key Skills": "Fast learner",
+              "Email": "cameron.stehr@hotmail.com",
+              "Job Field": "IT",
+              "Job Position": "Analyst",
+              "Job title": "District Government Manager",
+              "Website": "www.simon-schmidt.org",
+              "Seniority": "Chief"
+            },
+            {
+              "Industry": "Oil \u0026 Energy",
+              "Company": "Marks, Brekke and Krajcik",
+              "Profession": "factory worker",
+              "Key Skills": "Technical savvy",
+              "Email": "adelia.schuster@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Facilitator",
+              "Job title": "Advertising Technician",
+              "Website": "www.vance-conn.org",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "1039284": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biomedical Science",
+            "GPA": 1.33
+          },
+          "name": "Shelly Hills",
+          "employment": [
+            {
+              "Industry": "Mining \u0026 Metals",
+              "Company": "Beer, Volkman and Swift",
+              "Profession": "butcher",
+              "Key Skills": "Proactive",
+              "Email": "eveline.parker@hotmail.com",
+              "Job Field": "Design",
+              "Job Position": "Agent",
+              "Job title": "Chief Technician",
+              "Website": "www.deeann-wilderman.name",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "Environmental Services",
+              "Company": "Hilll, Muller and Predovic",
+              "Profession": "newsreader",
+              "Key Skills": "Fast learner",
+              "Email": "phillip.berge@hotmail.com",
+              "Job Field": "Mining",
+              "Job Position": "Specialist",
+              "Job title": "Hospitality Architect",
+              "Website": "www.jefferson-douglas.us",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Wholesale",
+              "Company": "Maggio Group",
+              "Profession": "scientist",
+              "Key Skills": "Proactive",
+              "Email": "shawn.walker@yahoo.com",
+              "Job Field": "Sales",
+              "Job Position": "Assistant",
+              "Job title": "Central Advertising Administrator",
+              "Website": "www.rosendo-keeling.org",
+              "Seniority": "Senior"
+            }
+          ]
+        },
+        "9276417": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Information Systems",
+            "GPA": 1.5
+          },
+          "name": "Nancie Thompson",
+          "employment": [
+            {
+              "Industry": "Aviation \u0026 Aerospace",
+              "Company": "Heidenreich Inc",
+              "Profession": "judge",
+              "Key Skills": "Technical savvy",
+              "Email": "martha.walsh@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Analyst",
+              "Job title": "Healthcare Coordinator",
+              "Website": "www.merideth-swift.com",
+              "Seniority": "Direct"
+            },
+            {
+              "Industry": "Staffing and Recruiting",
+              "Company": "Lebsack Group",
+              "Profession": "economist",
+              "Key Skills": "Organisation",
+              "Email": "ismael.yundt@gmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Facilitator",
+              "Job title": "Farming Technician",
+              "Website": "www.shana-gerhold.us",
+              "Seniority": "Global"
+            }
+          ]
+        },
+        "9945099": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Business",
+            "GPA": 3.41
+          },
+          "name": "Elizbeth Feil II",
+          "employment": [
+            {
+              "Industry": "Music",
+              "Company": "Rohan, Fisher and Morar",
+              "Profession": "firefighter",
+              "Key Skills": "Communication",
+              "Email": "gertrudis.mcglynn@yahoo.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Designer",
+              "Job title": "Banking Developer",
+              "Website": "www.samuel-kuvalis.biz",
+              "Seniority": "Dynamic"
+            },
+            {
+              "Industry": "Alternative Medicine",
+              "Company": "Legros, Herzog and Bartell",
+              "Profession": "economist",
+              "Key Skills": "Leadership",
+              "Email": "chasidy.beier@hotmail.com",
+              "Job Field": "Sales",
+              "Job Position": "Supervisor",
+              "Job title": "District Farming Consultant",
+              "Website": "www.josef-carter.org",
+              "Seniority": "National"
+            },
+            {
+              "Industry": "Newspapers",
+              "Company": "Kris, Dickens and Crona",
+              "Profession": "judge",
+              "Key Skills": "Technical savvy",
+              "Email": "estefana.keeling@yahoo.com",
+              "Job Field": "Advertising",
+              "Job Position": "Strategist",
+              "Job title": "Accounting Facilitator",
+              "Website": "www.ezra-fay.io",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "5535529": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Engineering",
+            "GPA": 3.89
+          },
+          "name": "Antonietta Casper MD",
+          "employment": [
+            {
+              "Industry": "Aviation \u0026 Aerospace",
+              "Company": "Kub, Wiegand and Osinski",
+              "Profession": "editor",
+              "Key Skills": "Leadership",
+              "Email": "tawanna.schmitt@hotmail.com",
+              "Job Field": "Real-Estate",
+              "Job Position": "Planner",
+              "Job title": "Forward Engineer",
+              "Website": "www.birgit-nader.us",
+              "Seniority": "Central"
+            },
+            {
+              "Industry": "Marketing and Advertising",
+              "Company": "Effertz-Osinski",
+              "Profession": "economist",
+              "Key Skills": "Communication",
+              "Email": "doreen.conroy@gmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Producer",
+              "Job title": "Regional Manufacturing Analyst",
+              "Website": "www.marcy-rau.org",
+              "Seniority": "Internal"
+            }
+          ]
+        },
+        "5647896": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Architectural Technology",
+            "GPA": 0.43
+          },
+          "name": "Mrs. Rodolfo Quitzon",
+          "employment": [
+            {
+              "Industry": "Building Materials",
+              "Company": "Cruickshank, Langworth and Grimes",
+              "Profession": "human resources",
+              "Key Skills": "Leadership",
+              "Email": "adrianne.howe@yahoo.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Facilitator",
+              "Job title": "Chief Education Planner",
+              "Website": "www.alesia-raynor.co",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Plastics",
+              "Company": "Reilly-Williamson",
+              "Profession": "lifeguard",
+              "Key Skills": "Work under pressure",
+              "Email": "rudy.johnston@yahoo.com",
+              "Job Field": "Consulting",
+              "Job Position": "Strategist",
+              "Job title": "Senior Mining Technician",
+              "Website": "www.dwight-sauer.io",
+              "Seniority": "Customer"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "6665493": {
+          "courses": [
+            "NUTR7602"
+          ],
+          "name": "Therese Swaniawski PhD"
+        },
+        "3727307": {
+          "courses": [],
+          "name": "Trena Hackett"
+        },
+        "7364339": {
+          "courses": [
+            "NUTR7602"
+          ],
+          "name": "Marni Reilly"
+        },
+        "5736509": {
+          "courses": [
+            "NUTR7602"
+          ],
+          "name": "Candice Weissnat"
+        }
+      }
+    },
+    "Civil Engineering": {
+      "courses": {
+        "CIVI8468": {
+          "credits": 4,
+          "name": "Legal Retail"
+        },
+        "CIVI1274": {
+          "credits": 2,
+          "name": "Consulting Accounting"
+        },
+        "CIVI6665": {
+          "credits": 2,
+          "name": "Banking Mining"
+        }
+      },
+      "students": {
+        "9750612": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biomedical Science",
+            "GPA": 2.41
+          },
+          "name": "Ramiro Baumbach DDS",
+          "employment": []
+        },
+        "9420014": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Psychology",
+            "GPA": 2.2
+          },
+          "name": "Toby Ritchie",
+          "employment": [
+            {
+              "Industry": "Venture Capital \u0026 Private Equity",
+              "Company": "Tillman, VonRueden and Nolan",
+              "Profession": "gardener",
+              "Key Skills": "Work under pressure",
+              "Email": "jolyn.nikolaus@gmail.com",
+              "Job Field": "Accounting",
+              "Job Position": "Officer",
+              "Job title": "International Consulting Manager",
+              "Website": "www.hoyt-howe.co",
+              "Seniority": "Customer"
+            }
+          ]
+        },
+        "4065116": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Psychology",
+            "GPA": 3.47
+          },
+          "name": "Pat Raynor",
+          "employment": [
+            {
+              "Industry": "Furniture",
+              "Company": "Okuneva, Dibbert and Miller",
+              "Profession": "painter",
+              "Key Skills": "Proactive",
+              "Email": "arnita.damore@gmail.com",
+              "Job Field": "Government",
+              "Job Position": "Producer",
+              "Job title": "Community-Services Manager",
+              "Website": "www.wes-sauer.biz",
+              "Seniority": "Global"
+            }
+          ]
+        },
+        "5771322": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Commerce",
+            "GPA": 0.39
+          },
+          "name": "Blaine Mann",
+          "employment": [
+            {
+              "Industry": "Hospital \u0026 Health Care",
+              "Company": "Reinger-Swaniawski",
+              "Profession": "politician",
+              "Key Skills": "Technical savvy",
+              "Email": "lourdes.kuvalis@hotmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Strategist",
+              "Job title": "Real-Estate Planner",
+              "Website": "www.antwan-bogisich.com",
+              "Seniority": "Chief"
+            },
+            {
+              "Industry": "Management Consulting",
+              "Company": "Homenick-Cormier",
+              "Profession": "biologist",
+              "Key Skills": "Networking skills",
+              "Email": "lorretta.spencer@gmail.com",
+              "Job Field": "Mining",
+              "Job Position": "Designer",
+              "Job title": "District Legal Supervisor",
+              "Website": "www.burt-ritchie.co",
+              "Seniority": "Dynamic"
+            }
+          ]
+        },
+        "5656882": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Engineering",
+            "GPA": 2.58
+          },
+          "name": "Clifton Vandervort",
+          "employment": []
+        },
+        "2767011": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Architectural Technology",
+            "GPA": 2.04
+          },
+          "name": "Gary Botsford",
+          "employment": [
+            {
+              "Industry": "Package / Freight Delivery",
+              "Company": "Bashirian-Auer",
+              "Profession": "plumber",
+              "Key Skills": "Communication",
+              "Email": "doloris.heaney@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Director",
+              "Job title": "National Real-Estate Coordinator",
+              "Website": "www.cortez-gibson.us",
+              "Seniority": "Global"
+            },
+            {
+              "Industry": "Public Policy",
+              "Company": "Schimmel, Kuhic and Langworth",
+              "Profession": "economist",
+              "Key Skills": "Self-motivated",
+              "Email": "ayanna.weber@yahoo.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Coordinator",
+              "Job title": "Forward Construction Supervisor",
+              "Website": "www.jacquetta-block.info",
+              "Seniority": "Regional"
+            }
+          ]
+        },
+        "4500591": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Information Systems",
+            "GPA": 0.11
+          },
+          "name": "Jacque Toy",
+          "employment": [
+            {
+              "Industry": "Individual \u0026 Family Services",
+              "Company": "Hermiston Inc",
+              "Profession": "electrician",
+              "Key Skills": "Proactive",
+              "Email": "lora.bashirian@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Associate",
+              "Job title": "District Supervisor",
+              "Website": "www.dewayne-witting.co",
+              "Seniority": "Chief"
+            },
+            {
+              "Industry": "Machinery",
+              "Company": "Hammes, Collier and O\u0027Conner",
+              "Profession": "mechanic",
+              "Key Skills": "Self-motivated",
+              "Email": "gregg.collier@hotmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Technician",
+              "Job title": "Design Orchestrator",
+              "Website": "www.twana-johnson.org",
+              "Seniority": "Principal"
+            }
+          ]
+        },
+        "7769912": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Health Science",
+            "GPA": 3.23
+          },
+          "name": "Gayle Ryan IV",
+          "employment": [
+            {
+              "Industry": "Sports",
+              "Company": "Daniel and Sons",
+              "Profession": "shop assistant",
+              "Key Skills": "Technical savvy",
+              "Email": "josefa.rutherford@yahoo.com",
+              "Job Field": "Technology",
+              "Job Position": "Director",
+              "Job title": "Consulting Supervisor",
+              "Website": "www.ned-reichert.net",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Consumer Goods",
+              "Company": "Hettinger, Romaguera and Aufderhar",
+              "Profession": "window cleaner",
+              "Key Skills": "Leadership",
+              "Email": "deandre.weber@yahoo.com",
+              "Job Field": "Legal",
+              "Job Position": "Executive",
+              "Job title": "National Associate",
+              "Website": "www.stevie-mante.name",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "Construction",
+              "Company": "Greenholt-Halvorson",
+              "Profession": "judge",
+              "Key Skills": "Teamwork",
+              "Email": "maryjane.west@yahoo.com",
+              "Job Field": "Legal",
+              "Job Position": "Manager",
+              "Job title": "Sales Architect",
+              "Website": "www.tammera-jones.com",
+              "Seniority": "Principal"
+            }
+          ]
+        },
+        "1503174": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Applied Science (Psychology)",
+            "GPA": 3.38
+          },
+          "name": "Kasey Quigley",
+          "employment": [
+            {
+              "Industry": "Chemicals",
+              "Company": "Mante Inc",
+              "Profession": "journalist",
+              "Key Skills": "Work under pressure",
+              "Email": "mauricio.baumbach@yahoo.com",
+              "Job Field": "Consulting",
+              "Job Position": "Officer",
+              "Job title": "Hospitality Consultant",
+              "Website": "www.willie-rice.net",
+              "Seniority": "Direct"
+            }
+          ]
+        },
+        "8123791": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Arts",
+            "GPA": 2.82
+          },
+          "name": "Broderick Shields",
+          "employment": []
+        },
+        "1452833": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Forensic Science",
+            "GPA": 0.54
+          },
+          "name": "Shanta Pfeffer",
+          "employment": [
+            {
+              "Industry": "Computer Networking",
+              "Company": "Turcotte, Abernathy and Will",
+              "Profession": "pilot",
+              "Key Skills": "Work under pressure",
+              "Email": "waldo.mills@hotmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Architect",
+              "Job title": "Investor Government Representative",
+              "Website": "www.bradley-hodkiewicz.org",
+              "Seniority": "Human"
+            },
+            {
+              "Industry": "Investment Management",
+              "Company": "Franecki, Bartoletti and DuBuque",
+              "Profession": "librarian",
+              "Key Skills": "Work under pressure",
+              "Email": "audria.yundt@hotmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Technician",
+              "Job title": "Advertising Executive",
+              "Website": "www.clarice-marks.com",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "Veterinary",
+              "Company": "Ankunding-Hudson",
+              "Profession": "banker",
+              "Key Skills": "Fast learner",
+              "Email": "silas.kuhlman@gmail.com",
+              "Job Field": "Accounting",
+              "Job Position": "Associate",
+              "Job title": "Manufacturing Representative",
+              "Website": "www.man-oreilly.biz",
+              "Seniority": "District"
+            }
+          ]
+        },
+        "8931473": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Law",
+            "GPA": 2.54
+          },
+          "name": "Miss Osvaldo Leuschke",
+          "employment": [
+            {
+              "Industry": "Nonprofit Organization Management",
+              "Company": "Lang, Haley and Mohr",
+              "Profession": "window cleaner",
+              "Key Skills": "Fast learner",
+              "Email": "ethan.waters@gmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Supervisor",
+              "Job title": "District Marketing Coordinator",
+              "Website": "www.lenard-kris.name",
+              "Seniority": "Product"
+            }
+          ]
+        },
+        "5906854": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Forensic Science",
+            "GPA": 1.53
+          },
+          "name": "Herb McClure",
+          "employment": [
+            {
+              "Industry": "Import and Export",
+              "Company": "Wolff and Sons",
+              "Profession": "waiter",
+              "Key Skills": "Communication",
+              "Email": "yesenia.feil@gmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Consultant",
+              "Job title": "Consulting Coordinator",
+              "Website": "www.jerrold-gleason.info",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "Museums and Institutions",
+              "Company": "Schultz, Medhurst and Littel",
+              "Profession": "hairdresser",
+              "Key Skills": "Fast learner",
+              "Email": "dorene.metz@yahoo.com",
+              "Job Field": "Consulting",
+              "Job Position": "Architect",
+              "Job title": "Legacy Strategist",
+              "Website": "www.ferne-hermann.net",
+              "Seniority": "Human"
+            }
+          ]
+        },
+        "2586011": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Biological Science",
+            "GPA": 3.43
+          },
+          "name": "Theda Koch",
+          "employment": [
+            {
+              "Industry": "Wireless",
+              "Company": "Jacobs and Sons",
+              "Profession": "police officer",
+              "Key Skills": "Proactive",
+              "Email": "charles.hermiston@hotmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Developer",
+              "Job title": "Investor Developer",
+              "Website": "www.issac-bradtke.info",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Security and Investigations",
+              "Company": "Mueller LLC",
+              "Profession": "musician",
+              "Key Skills": "Proactive",
+              "Email": "justin.wehner@gmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Consultant",
+              "Job title": "Global Real-Estate Engineer",
+              "Website": "www.bethann-halvorson.net",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "9524367": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Communications",
+            "GPA": 0.47
+          },
+          "name": "Stephen McClure",
+          "employment": [
+            {
+              "Industry": "Facilities Services",
+              "Company": "Paucek-Becker",
+              "Profession": "air traffic controller",
+              "Key Skills": "Fast learner",
+              "Email": "maurice.satterfield@yahoo.com",
+              "Job Field": "Retail",
+              "Job Position": "Architect",
+              "Job title": "Retail Facilitator",
+              "Website": "www.marisol-koss.org",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Internet",
+              "Company": "Stanton-Ondricka",
+              "Profession": "newsreader",
+              "Key Skills": "Organisation",
+              "Email": "evelyn.hickle@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Manager",
+              "Job title": "National Director",
+              "Website": "www.earle-rogahn.co",
+              "Seniority": "International"
+            }
+          ]
+        },
+        "1352683": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Communications",
+            "GPA": 3.3
+          },
+          "name": "Ahmad West",
+          "employment": [
+            {
+              "Industry": "Packaging and Containers",
+              "Company": "Bosco, Walter and Kilback",
+              "Profession": "carpenter",
+              "Key Skills": "Problem solving",
+              "Email": "sona.strosin@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Consultant",
+              "Job title": "Principal Manufacturing Consultant",
+              "Website": "www.woodrow-will.com",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Oil \u0026 Energy",
+              "Company": "Littel, Dibbert and Morissette",
+              "Profession": "postman",
+              "Key Skills": "Organisation",
+              "Email": "shonna.auer@hotmail.com",
+              "Job Field": "Real-Estate",
+              "Job Position": "Strategist",
+              "Job title": "Retail Coordinator",
+              "Website": "www.heide-spencer.net",
+              "Seniority": "National"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "9578370": {
+          "courses": [],
+          "name": "Maria Kreiger"
+        },
+        "6954079": {
+          "courses": [],
+          "name": "Dean Smith"
+        },
+        "1983704": {
+          "courses": [
+            "CIVI8468"
+          ],
+          "name": "Benton Breitenberg"
+        },
+        "3412440": {
+          "courses": [
+            "CIVI8468",
+            "CIVI6665"
+          ],
+          "name": "Dr. Dustin Murazik"
+        },
+        "2191599": {
+          "courses": [
+            "CIVI1274",
+            "CIVI6665"
+          ],
+          "name": "Elena Powlowski"
+        },
+        "1477017": {
+          "courses": [],
+          "name": "Mrs. Manual Goldner"
+        },
+        "5905429": {
+          "courses": [
+            "CIVI6665"
+          ],
+          "name": "Delena Rohan"
+        }
+      }
+    },
+    "Information Systems": {
+      "courses": {
+        "INFO6093": {
+          "credits": 3,
+          "name": "Marketing Community-Services"
+        },
+        "INFO3109": {
+          "credits": 2,
+          "name": "Community-Services Marketing"
+        },
+        "INFO5691": {
+          "credits": 4,
+          "name": "Sales IT"
+        },
+        "INFO8471": {
+          "credits": 3,
+          "name": "Consulting Manufacturing"
+        },
+        "INFO6729": {
+          "credits": 1,
+          "name": "Manufacturing Community-Services"
+        },
+        "INFO5695": {
+          "credits": 4,
+          "name": "Farming Marketing"
+        },
+        "INFO7258": {
+          "credits": 4,
+          "name": "Accounting Marketing"
+        },
+        "INFO4676": {
+          "credits": 4,
+          "name": "Advertising Manufacturing"
+        }
+      },
+      "students": {
+        "8820789": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Communications",
+            "GPA": 2.68
+          },
+          "name": "Cortez Ruecker",
+          "employment": [
+            {
+              "Industry": "Staffing and Recruiting",
+              "Company": "Wisozk Inc",
+              "Profession": "firefighter",
+              "Key Skills": "Teamwork",
+              "Email": "dino.kerluke@hotmail.com",
+              "Job Field": "Education",
+              "Job Position": "Producer",
+              "Job title": "Consulting Facilitator",
+              "Website": "www.taunya-schamberger.co",
+              "Seniority": "Senior"
+            },
+            {
+              "Industry": "Museums and Institutions",
+              "Company": "Paucek-Gusikowski",
+              "Profession": "farmer",
+              "Key Skills": "Technical savvy",
+              "Email": "art.bogan@hotmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Orchestrator",
+              "Job title": "Design Agent",
+              "Website": "www.robbie-mitchell.co",
+              "Seniority": "Principal"
+            },
+            {
+              "Industry": "Think Tanks",
+              "Company": "Padberg-Von",
+              "Profession": "farmer",
+              "Key Skills": "Self-motivated",
+              "Email": "camila.boyle@yahoo.com",
+              "Job Field": "Banking",
+              "Job Position": "Coordinator",
+              "Job title": "Government Designer",
+              "Website": "www.jaimie-gutkowski.com",
+              "Seniority": "Forward"
+            }
+          ]
+        },
+        "9735969": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Architectural Technology",
+            "GPA": 2.6
+          },
+          "name": "Dr. Haywood Heller",
+          "employment": [
+            {
+              "Industry": "Internet",
+              "Company": "Lehner, Schimmel and Sanford",
+              "Profession": "physicist",
+              "Key Skills": "Proactive",
+              "Email": "willian.muller@hotmail.com",
+              "Job Field": "Sales",
+              "Job Position": "Technician",
+              "Job title": "Sales Analyst",
+              "Website": "www.adolph-hirthe.io",
+              "Seniority": "Customer"
+            },
+            {
+              "Industry": "Museums and Institutions",
+              "Company": "Gorczany, Beatty and Torphy",
+              "Profession": "agriculturist",
+              "Key Skills": "Confidence",
+              "Email": "rene.botsford@hotmail.com",
+              "Job Field": "Sales",
+              "Job Position": "Supervisor",
+              "Job title": "Administration Facilitator",
+              "Website": "www.regine-yost.us",
+              "Seniority": "Customer"
+            },
+            {
+              "Industry": "Civil Engineering",
+              "Company": "Franecki, Feeney and Koepp",
+              "Profession": "politician",
+              "Key Skills": "Problem solving",
+              "Email": "rich.pacocha@gmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Associate",
+              "Job title": "Global Advertising Orchestrator",
+              "Website": "www.matilda-jakubowski.co",
+              "Seniority": "Lead"
+            }
+          ]
+        },
+        "5189542": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Teaching",
+            "GPA": 1.66
+          },
+          "name": "Pasquale Hermiston",
+          "employment": [
+            {
+              "Industry": "Wireless",
+              "Company": "Thompson Group",
+              "Profession": "electrician",
+              "Key Skills": "Fast learner",
+              "Email": "mckinley.waelchi@yahoo.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Administrator",
+              "Job title": "Corporate Manager",
+              "Website": "www.denny-lubowitz.info",
+              "Seniority": "District"
+            },
+            {
+              "Industry": "Outsourcing / Offshoring",
+              "Company": "Moen, Vandervort and Turcotte",
+              "Profession": "doctor",
+              "Key Skills": "Proactive",
+              "Email": "stephen.wunsch@gmail.com",
+              "Job Field": "Mining",
+              "Job Position": "Manager",
+              "Job title": "Internal Hospitality Strategist",
+              "Website": "www.julio-bahringer.biz",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "2345081": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Architectural Technology",
+            "GPA": 1.34
+          },
+          "name": "Ms. Claude Trantow",
+          "employment": [
+            {
+              "Industry": "Computer Hardware",
+              "Company": "Schmeler Group",
+              "Profession": "pharmacist",
+              "Key Skills": "Self-motivated",
+              "Email": "julissa.mertz@hotmail.com",
+              "Job Field": "IT",
+              "Job Position": "Executive",
+              "Job title": "Internal Manufacturing Agent",
+              "Website": "www.jamaal-strosin.com",
+              "Seniority": "Lead"
+            },
+            {
+              "Industry": "Food Production",
+              "Company": "Jacobson and Sons",
+              "Profession": "politician",
+              "Key Skills": "Organisation",
+              "Email": "chuck.dicki@yahoo.com",
+              "Job Field": "Sales",
+              "Job Position": "Assistant",
+              "Job title": "International Sales Supervisor",
+              "Website": "www.denis-shanahan.io",
+              "Seniority": "Chief"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "1364580": {
+          "courses": [
+            "INFO8471",
+            "INFO6729",
+            "INFO5695",
+            "INFO7258",
+            "INFO4676"
+          ],
+          "name": "Lyman Mayer"
+        },
+        "3398272": {
+          "courses": [
+            "INFO6093",
+            "INFO3109",
+            "INFO5691",
+            "INFO8471",
+            "INFO5695",
+            "INFO4676"
+          ],
+          "name": "Domitila Spencer"
+        },
+        "8529009": {
+          "courses": [
+            "INFO6093",
+            "INFO3109",
+            "INFO5691",
+            "INFO8471",
+            "INFO6729",
+            "INFO7258",
+            "INFO4676"
+          ],
+          "name": "Boyce Kulas"
+        },
+        "7989069": {
+          "courses": [
+            "INFO5691",
+            "INFO8471",
+            "INFO6729",
+            "INFO7258",
+            "INFO4676"
+          ],
+          "name": "Lewis Moore"
+        },
+        "3663666": {
+          "courses": [
+            "INFO6093",
+            "INFO5691",
+            "INFO6729",
+            "INFO5695",
+            "INFO7258",
+            "INFO4676"
+          ],
+          "name": "Justine Wiza"
+        },
+        "1687868": {
+          "courses": [
+            "INFO6093",
+            "INFO5691",
+            "INFO8471"
+          ],
+          "name": "Clelia Mraz"
+        },
+        "3204287": {
+          "courses": [
+            "INFO3109",
+            "INFO7258"
+          ],
+          "name": "Mr. Lionel Olson"
+        }
+      }
+    },
+    "Health Informatics": {
+      "courses": {
+        "HEAL8688": {
+          "credits": 4,
+          "name": "Sales IT"
+        },
+        "HEAL1175": {
+          "credits": 3,
+          "name": "Consulting Retail"
+        },
+        "HEAL8671": {
+          "credits": 4,
+          "name": "Design Retail"
+        },
+        "HEAL8019": {
+          "credits": 4,
+          "name": "Administration Advertising"
+        }
+      },
+      "students": {
+        "5293620": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Engineering",
+            "GPA": 2.7
+          },
+          "name": "Dr. Waylon MacGyver",
+          "employment": [
+            {
+              "Industry": "Computer Networking",
+              "Company": "Wyman, Rempel and Baumbach",
+              "Profession": "mechanic",
+              "Key Skills": "Organisation",
+              "Email": "daniele.muller@gmail.com",
+              "Job Field": "Education",
+              "Job Position": "Orchestrator",
+              "Job title": "National Engineer",
+              "Website": "www.brian-yundt.com",
+              "Seniority": "Global"
+            },
+            {
+              "Industry": "Investment Banking",
+              "Company": "Howe-Blanda",
+              "Profession": "musician",
+              "Key Skills": "Organisation",
+              "Email": "miyoko.bauch@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Orchestrator",
+              "Job title": "Product Sales Strategist",
+              "Website": "www.nicky-runolfsson.io",
+              "Seniority": "Legacy"
+            },
+            {
+              "Industry": "Publishing",
+              "Company": "Johns, Bechtelar and Schinner",
+              "Profession": "veterinary doctor",
+              "Key Skills": "Teamwork",
+              "Email": "leida.olson@gmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Architect",
+              "Job title": "Marketing Coordinator",
+              "Website": "www.marsha-jacobs.org",
+              "Seniority": "Dynamic"
+            }
+          ]
+        },
+        "1879129": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Education",
+            "GPA": 2.57
+          },
+          "name": "Mr. Felix Heathcote",
+          "employment": [
+            {
+              "Industry": "Machinery",
+              "Company": "Haag, Tillman and Stroman",
+              "Profession": "businessman",
+              "Key Skills": "Work under pressure",
+              "Email": "desiree.hayes@hotmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Coordinator",
+              "Job title": "Manufacturing Engineer",
+              "Website": "www.isreal-jacobson.io",
+              "Seniority": "Product"
+            }
+          ]
+        },
+        "5144099": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Applied Science (Psychology)",
+            "GPA": 3.52
+          },
+          "name": "Leandro Reinger",
+          "employment": [
+            {
+              "Industry": "Human Resources",
+              "Company": "Powlowski-Bartoletti",
+              "Profession": "taxi driver",
+              "Key Skills": "Fast learner",
+              "Email": "fredrick.orn@hotmail.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Representative",
+              "Job title": "Technology Representative",
+              "Website": "www.richard-barton.io",
+              "Seniority": "Legacy"
+            },
+            {
+              "Industry": "Capital Markets",
+              "Company": "Moen Inc",
+              "Profession": "taxi driver",
+              "Key Skills": "Work under pressure",
+              "Email": "annmarie.barrows@gmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Coordinator",
+              "Job title": "Human Retail Specialist",
+              "Website": "www.jospeh-koelpin.name",
+              "Seniority": "Senior"
+            },
+            {
+              "Industry": "Market Research",
+              "Company": "Abernathy Group",
+              "Profession": "lecturer",
+              "Key Skills": "Fast learner",
+              "Email": "jerrod.ratke@gmail.com",
+              "Job Field": "Sales",
+              "Job Position": "Executive",
+              "Job title": "Farming Engineer",
+              "Website": "www.lindsey-mertz.co",
+              "Seniority": "District"
+            }
+          ]
+        },
+        "1166686": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Law",
+            "GPA": 3.02
+          },
+          "name": "Miss Mozell Koelpin",
+          "employment": [
+            {
+              "Industry": "Transportationg / Trucking / Railroad",
+              "Company": "MacGyver-Abshire",
+              "Profession": "engineer",
+              "Key Skills": "Fast learner",
+              "Email": "ted.walter@hotmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Assistant",
+              "Job title": "Education Assistant",
+              "Website": "www.jacob-kihn.co",
+              "Seniority": "National"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "1233920": {
+          "courses": [
+            "HEAL8688",
+            "HEAL8019"
+          ],
+          "name": "Hunter Schowalter"
+        },
+        "4823547": {
+          "courses": [
+            "HEAL8688",
+            "HEAL1175",
+            "HEAL8671",
+            "HEAL8019"
+          ],
+          "name": "Lakiesha Kovacek IV"
+        },
+        "4997588": {
+          "courses": [
+            "HEAL1175",
+            "HEAL8671"
+          ],
+          "name": "Hue Sauer"
+        },
+        "3254840": {
+          "courses": [
+            "HEAL8688"
+          ],
+          "name": "Herschel Bashirian"
+        },
+        "8925012": {
+          "courses": [
+            "HEAL8688",
+            "HEAL1175"
+          ],
+          "name": "Johnie Dicki"
+        },
+        "6905895": {
+          "courses": [],
+          "name": "Julee Gibson"
+        }
+      }
+    },
+    "History": {
+      "courses": {
+        "HIST3412": {
+          "credits": 4,
+          "name": "Healthcare Legal"
+        },
+        "HIST6822": {
+          "credits": 2,
+          "name": "Advertising Consulting"
+        },
+        "HIST8968": {
+          "credits": 1,
+          "name": "Banking IT"
+        },
+        "HIST1186": {
+          "credits": 3,
+          "name": "Legal Administration"
+        },
+        "HIST5740": {
+          "credits": 4,
+          "name": "Administration Advertising"
+        },
+        "HIST5268": {
+          "credits": 4,
+          "name": "Design Community-Services"
+        }
+      },
+      "students": {
+        "5217787": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Engineering",
+            "GPA": 3.94
+          },
+          "name": "Elijah Jast",
+          "employment": [
+            {
+              "Industry": "Graphic Design",
+              "Company": "Torp Group",
+              "Profession": "nurse",
+              "Key Skills": "Confidence",
+              "Email": "freeman.ryan@hotmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Director",
+              "Job title": "Advertising Assistant",
+              "Website": "www.rueben-mohr.name",
+              "Seniority": "Principal"
+            }
+          ]
+        },
+        "7740143": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Information Systems",
+            "GPA": 0.71
+          },
+          "name": "Terence Ledner IV",
+          "employment": []
+        },
+        "6283729": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biomedical Science",
+            "GPA": 3.17
+          },
+          "name": "Elmer Carter",
+          "employment": [
+            {
+              "Industry": "Retail",
+              "Company": "Davis, McClure and Beahan",
+              "Profession": "lecturer",
+              "Key Skills": "Work under pressure",
+              "Email": "porter.turcotte@hotmail.com",
+              "Job Field": "Government",
+              "Job Position": "Assistant",
+              "Job title": "Corporate Education Planner",
+              "Website": "www.richard-jerde.com",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Logistics and Supply Chain",
+              "Company": "Fahey-Rosenbaum",
+              "Profession": "newsreader",
+              "Key Skills": "Problem solving",
+              "Email": "jeremiah.feil@hotmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Assistant",
+              "Job title": "Design Director",
+              "Website": "www.harry-predovic.info",
+              "Seniority": "Human"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "8037950": {
+          "courses": [
+            "HIST1186",
+            "HIST5740"
+          ],
+          "name": "Gavin Steuber"
+        },
+        "4506098": {
+          "courses": [
+            "HIST3412",
+            "HIST6822",
+            "HIST8968",
+            "HIST1186"
+          ],
+          "name": "Dr. Carmelita White"
+        },
+        "3999333": {
+          "courses": [
+            "HIST6822",
+            "HIST1186",
+            "HIST5740"
+          ],
+          "name": "Victor Collins"
+        },
+        "7704828": {
+          "courses": [
+            "HIST3412",
+            "HIST8968",
+            "HIST1186",
+            "HIST5740",
+            "HIST5268"
+          ],
+          "name": "Shawanna Witting"
+        }
+      }
+    }
+  },
+  "Western Crooks University": {
+    "Computer Science": {
+      "courses": {
+        "COMP3355": {
+          "credits": 3,
+          "name": "Marketing Sales"
+        },
+        "COMP2682": {
+          "credits": 4,
+          "name": "Real-Estate IT"
+        },
+        "COMP8182": {
+          "credits": 2,
+          "name": "Sales Consulting"
+        },
+        "COMP3263": {
+          "credits": 2,
+          "name": "Marketing Real-Estate"
+        },
+        "COMP3755": {
+          "credits": 3,
+          "name": "Education Education"
+        }
+      },
+      "students": {
+        "1124276": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Arts",
+            "GPA": 1.65
+          },
+          "name": "Edward Conroy",
+          "employment": [
+            {
+              "Industry": "Farming",
+              "Company": "Beahan LLC",
+              "Profession": "secretary",
+              "Key Skills": "Problem solving",
+              "Email": "bertie.carter@yahoo.com",
+              "Job Field": "Advertising",
+              "Job Position": "Assistant",
+              "Job title": "Government Administrator",
+              "Website": "www.barabara-beahan.us",
+              "Seniority": "International"
+            },
+            {
+              "Industry": "Arts and Crafts",
+              "Company": "Gottlieb Group",
+              "Profession": "editor",
+              "Key Skills": "Leadership",
+              "Email": "becki.walsh@hotmail.com",
+              "Job Field": "Government",
+              "Job Position": "Executive",
+              "Job title": "Direct Designer",
+              "Website": "www.matthew-skiles.info",
+              "Seniority": "National"
+            }
+          ]
+        },
+        "7131914": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Engineering",
+            "GPA": 0.46
+          },
+          "name": "Rodger Collier",
+          "employment": []
+        },
+        "6498459": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Commerce",
+            "GPA": 2.1
+          },
+          "name": "Alonso Welch",
+          "employment": [
+            {
+              "Industry": "Glass, Ceramics \u0026 Concrete",
+              "Company": "Stark Inc",
+              "Profession": "bookkeeper",
+              "Key Skills": "Organisation",
+              "Email": "jay.damore@yahoo.com",
+              "Job Field": "Construction",
+              "Job Position": "Analyst",
+              "Job title": "Legacy Orchestrator",
+              "Website": "www.scott-conn.org",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "1791027": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Information Systems",
+            "GPA": 2.15
+          },
+          "name": "Sherri Lowe",
+          "employment": [
+            {
+              "Industry": "Philanthropy",
+              "Company": "Beahan-Greenholt",
+              "Profession": "secretary",
+              "Key Skills": "Self-motivated",
+              "Email": "andres.lebsack@yahoo.com",
+              "Job Field": "Education",
+              "Job Position": "Designer",
+              "Job title": "IT Engineer",
+              "Website": "www.magaret-friesen.org",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "6671021": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Education",
+            "GPA": 1.39
+          },
+          "name": "Bobby Harvey IV",
+          "employment": [
+            {
+              "Industry": "Mechanical or Industrial Engineering",
+              "Company": "MacGyver-Greenholt",
+              "Profession": "architect",
+              "Key Skills": "Technical savvy",
+              "Email": "carl.wisozk@gmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Engineer",
+              "Job title": "International Real-Estate Planner",
+              "Website": "www.roman-cassin.com",
+              "Seniority": "Dynamic"
+            }
+          ]
+        },
+        "5705343": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Teaching",
+            "GPA": 3.11
+          },
+          "name": "Stacy Ratke",
+          "employment": [
+            {
+              "Industry": "Airlines / Aviation",
+              "Company": "Kemmer LLC",
+              "Profession": "gardener",
+              "Key Skills": "Confidence",
+              "Email": "hong.huel@yahoo.com",
+              "Job Field": "Technology",
+              "Job Position": "Engineer",
+              "Job title": "Dynamic Analyst",
+              "Website": "www.matilda-hickle.com",
+              "Seniority": "Principal"
+            },
+            {
+              "Industry": "Investment Banking",
+              "Company": "Kautzer-O\u0027Keefe",
+              "Profession": "actress",
+              "Key Skills": "Work under pressure",
+              "Email": "cornelia.jakubowski@yahoo.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Engineer",
+              "Job title": "Government Strategist",
+              "Website": "www.darwin-orn.biz",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "7668398": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Medicine",
+            "GPA": 3.78
+          },
+          "name": "Reynaldo Schaefer",
+          "employment": [
+            {
+              "Industry": "Commercial Real Estate",
+              "Company": "Hickle Group",
+              "Profession": "chemist",
+              "Key Skills": "Teamwork",
+              "Email": "assunta.swift@yahoo.com",
+              "Job Field": "Administration",
+              "Job Position": "Officer",
+              "Job title": "Forward Supervisor",
+              "Website": "www.genevie-bartoletti.net",
+              "Seniority": "Forward"
+            }
+          ]
+        },
+        "5058278": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Biomedical Science",
+            "GPA": 0.38
+          },
+          "name": "Dr. Keenan Bailey",
+          "employment": [
+            {
+              "Industry": "Education Management",
+              "Company": "Hyatt, Nienow and Gislason",
+              "Profession": "businessman",
+              "Key Skills": "Organisation",
+              "Email": "corine.grady@gmail.com",
+              "Job Field": "Design",
+              "Job Position": "Developer",
+              "Job title": "Customer Community-Services Planner",
+              "Website": "www.shizue-boyle.co",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "7085826": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Business",
+            "GPA": 1.88
+          },
+          "name": "Mr. Kyle Sawayn",
+          "employment": [
+            {
+              "Industry": "Mining \u0026 Metals",
+              "Company": "Olson-Leffler",
+              "Profession": "translator",
+              "Key Skills": "Technical savvy",
+              "Email": "gladis.senger@gmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Officer",
+              "Job title": "National Banking Associate",
+              "Website": "www.isidro-schuster.com",
+              "Seniority": "Regional"
+            },
+            {
+              "Industry": "Defense \u0026 Space",
+              "Company": "Wilkinson, Beier and Cruickshank",
+              "Profession": "artist",
+              "Key Skills": "Teamwork",
+              "Email": "reid.stiedemann@hotmail.com",
+              "Job Field": "Education",
+              "Job Position": "Coordinator",
+              "Job title": "Dynamic Education Liaison",
+              "Website": "www.charlie-mraz.name",
+              "Seniority": "Forward"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "4065023": {
+          "courses": [
+            "COMP2682",
+            "COMP8182"
+          ],
+          "name": "Roxanne Turcotte IV"
+        },
+        "5820025": {
+          "courses": [
+            "COMP3355",
+            "COMP2682",
+            "COMP3263",
+            "COMP3755"
+          ],
+          "name": "Gerard Zulauf I"
+        },
+        "4613287": {
+          "courses": [
+            "COMP8182",
+            "COMP3263",
+            "COMP3755"
+          ],
+          "name": "Johnny Pagac"
+        },
+        "8626583": {
+          "courses": [
+            "COMP3355",
+            "COMP2682",
+            "COMP3263",
+            "COMP3755"
+          ],
+          "name": "Ms. Maryland Barton"
+        },
+        "9807539": {
+          "courses": [
+            "COMP8182"
+          ],
+          "name": "Ms. Zachary Hermiston"
+        },
+        "9376530": {
+          "courses": [
+            "COMP3355",
+            "COMP3263"
+          ],
+          "name": "Mr. Glory O\u0027Conner"
+        }
+      }
+    },
+    "Civil Engineering": {
+      "courses": {
+        "CIVI5817": {
+          "credits": 4,
+          "name": "Education Construction"
+        },
+        "CIVI1563": {
+          "credits": 2,
+          "name": "Farming Hospitality"
+        }
+      },
+      "students": {
+        "6035949": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Design",
+            "GPA": 1.14
+          },
+          "name": "Antwan Weissnat",
+          "employment": [
+            {
+              "Industry": "Online Media",
+              "Company": "Hilpert-Volkman",
+              "Profession": "painter",
+              "Key Skills": "Communication",
+              "Email": "laurette.gottlieb@yahoo.com",
+              "Job Field": "Mining",
+              "Job Position": "Executive",
+              "Job title": "Accounting Director",
+              "Website": "www.cruz-oberbrunner.biz",
+              "Seniority": "Human"
+            }
+          ]
+        },
+        "6807572": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Criminology",
+            "GPA": 1.83
+          },
+          "name": "Quintin Doyle",
+          "employment": [
+            {
+              "Industry": "Pharmaceuticals",
+              "Company": "Dickinson, Veum and Bartell",
+              "Profession": "bartender",
+              "Key Skills": "Proactive",
+              "Email": "aurea.green@hotmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Specialist",
+              "Job title": "International Liaison",
+              "Website": "www.jacqueline-koss.name",
+              "Seniority": "Human"
+            }
+          ]
+        },
+        "5330053": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Applied Science (Psychology)",
+            "GPA": 3.41
+          },
+          "name": "Pat O\u0027Connell",
+          "employment": [
+            {
+              "Industry": "Wireless",
+              "Company": "Kuvalis, Kuhlman and Shields",
+              "Profession": "pharmacist",
+              "Key Skills": "Confidence",
+              "Email": "kevin.kiehn@gmail.com",
+              "Job Field": "Design",
+              "Job Position": "Facilitator",
+              "Job title": "Marketing Developer",
+              "Website": "www.bernardina-franecki.net",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Semiconductors",
+              "Company": "Wunsch, Casper and Goyette",
+              "Profession": "writer",
+              "Key Skills": "Teamwork",
+              "Email": "chantay.barton@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Representative",
+              "Job title": "Central Officer",
+              "Website": "www.suzann-zemlak.info",
+              "Seniority": "Senior"
+            }
+          ]
+        },
+        "7960925": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Health Science",
+            "GPA": 1.13
+          },
+          "name": "Bunny Prohaska",
+          "employment": []
+        },
+        "1409292": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Applied Science (Psychology)",
+            "GPA": 0.01
+          },
+          "name": "Lanelle Larson",
+          "employment": [
+            {
+              "Industry": "Luxury Goods \u0026 Jewelry",
+              "Company": "Rodriguez-Senger",
+              "Profession": "waiter",
+              "Key Skills": "Work under pressure",
+              "Email": "mistie.treutel@gmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Strategist",
+              "Job title": "Senior Technology Planner",
+              "Website": "www.jospeh-moore.com",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Gambling \u0026 Casinos",
+              "Company": "Wilkinson and Sons",
+              "Profession": "journalist",
+              "Key Skills": "Problem solving",
+              "Email": "sabine.sporer@hotmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Strategist",
+              "Job title": "Global Healthcare Designer",
+              "Website": "www.patrice-kovacek.co",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Aviation \u0026 Aerospace",
+              "Company": "Smitham Group",
+              "Profession": "advocate",
+              "Key Skills": "Networking skills",
+              "Email": "lavone.rolfson@yahoo.com",
+              "Job Field": "Sales",
+              "Job Position": "Orchestrator",
+              "Job title": "National Agent",
+              "Website": "www.latesha-roberts.co",
+              "Seniority": "Lead"
+            }
+          ]
+        },
+        "8289506": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Arts",
+            "GPA": 0.21
+          },
+          "name": "Elli Murphy",
+          "employment": []
+        },
+        "1350569": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Engineering",
+            "GPA": 3.65
+          },
+          "name": "Perla Auer",
+          "employment": [
+            {
+              "Industry": "Electrical / Electronic Manufacturing",
+              "Company": "Howell, Kuhic and Hayes",
+              "Profession": "bookkeeper",
+              "Key Skills": "Organisation",
+              "Email": "bao.dach@gmail.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Associate",
+              "Job title": "Principal Associate",
+              "Website": "www.chance-gerhold.name",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Think Tanks",
+              "Company": "Shields-O\u0027Keefe",
+              "Profession": "lawyer",
+              "Key Skills": "Proactive",
+              "Email": "wava.stiedemann@yahoo.com",
+              "Job Field": "Accounting",
+              "Job Position": "Administrator",
+              "Job title": "Senior Orchestrator",
+              "Website": "www.jennefer-kihn.net",
+              "Seniority": "Senior"
+            }
+          ]
+        },
+        "2695604": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Commerce",
+            "GPA": 3.93
+          },
+          "name": "Adan Wolff",
+          "employment": [
+            {
+              "Industry": "Hospital \u0026 Health Care",
+              "Company": "Brown, Moore and Welch",
+              "Profession": "web developer",
+              "Key Skills": "Organisation",
+              "Email": "kris.volkman@yahoo.com",
+              "Job Field": "Real-Estate",
+              "Job Position": "Supervisor",
+              "Job title": "Consulting Supervisor",
+              "Website": "www.alvaro-haley.co",
+              "Seniority": "International"
+            },
+            {
+              "Industry": "Packaging and Containers",
+              "Company": "Glover LLC",
+              "Profession": "human resources",
+              "Key Skills": "Problem solving",
+              "Email": "valentine.gibson@gmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Developer",
+              "Job title": "Direct Design Strategist",
+              "Website": "www.jon-wuckert.us",
+              "Seniority": "Customer"
+            },
+            {
+              "Industry": "Law Practice",
+              "Company": "Murazik, Ratke and Hettinger",
+              "Profession": "nurse",
+              "Key Skills": "Teamwork",
+              "Email": "eliseo.king@yahoo.com",
+              "Job Field": "Technology",
+              "Job Position": "Designer",
+              "Job title": "IT Assistant",
+              "Website": "www.chaya-wisoky.com",
+              "Seniority": "Lead"
+            }
+          ]
+        },
+        "6341359": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Engineering",
+            "GPA": 3.81
+          },
+          "name": "Gretta Rohan I",
+          "employment": [
+            {
+              "Industry": "Public Policy",
+              "Company": "Klein and Sons",
+              "Profession": "soldier",
+              "Key Skills": "Fast learner",
+              "Email": "marlys.nienow@hotmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Designer",
+              "Job title": "Global Orchestrator",
+              "Website": "www.erwin-goodwin.com",
+              "Seniority": "Regional"
+            },
+            {
+              "Industry": "Mental Health Care",
+              "Company": "Hand LLC",
+              "Profession": "dietician",
+              "Key Skills": "Confidence",
+              "Email": "salome.stamm@hotmail.com",
+              "Job Field": "Advertising",
+              "Job Position": "Architect",
+              "Job title": "Marketing Executive",
+              "Website": "www.napoleon-reilly.biz",
+              "Seniority": "Direct"
+            },
+            {
+              "Industry": "Insurance",
+              "Company": "Kunze Group",
+              "Profession": "butcher",
+              "Key Skills": "Organisation",
+              "Email": "kristie.thompson@hotmail.com",
+              "Job Field": "Real-Estate",
+              "Job Position": "Coordinator",
+              "Job title": "Marketing Supervisor",
+              "Website": "www.lola-hilll.us",
+              "Seniority": "Chief"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "8038090": {
+          "courses": [
+            "CIVI5817"
+          ],
+          "name": "Josh Frami DDS"
+        },
+        "7844246": {
+          "courses": [
+            "CIVI5817",
+            "CIVI1563"
+          ],
+          "name": "Mason Adams"
+        },
+        "8822359": {
+          "courses": [
+            "CIVI1563"
+          ],
+          "name": "Ms. Merissa Pfannerstill"
+        },
+        "8235678": {
+          "courses": [
+            "CIVI5817",
+            "CIVI1563"
+          ],
+          "name": "Loreen Daniel"
+        },
+        "2892120": {
+          "courses": [
+            "CIVI5817"
+          ],
+          "name": "Amado Wolf"
+        },
+        "3953435": {
+          "courses": [
+            "CIVI5817"
+          ],
+          "name": "Sherill Ernser"
+        },
+        "6457754": {
+          "courses": [
+            "CIVI5817",
+            "CIVI1563"
+          ],
+          "name": "Gordon Kemmer"
+        },
+        "9648943": {
+          "courses": [
+            "CIVI5817"
+          ],
+          "name": "Shavonda Bergstrom"
+        }
+      }
+    },
+    "Health Informatics": {
+      "courses": {
+        "HEAL3756": {
+          "credits": 1,
+          "name": "Construction Education"
+        },
+        "HEAL8091": {
+          "credits": 4,
+          "name": "Community-Services Farming"
+        }
+      },
+      "students": {
+        "6281214": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Nursing",
+            "GPA": 2.75
+          },
+          "name": "Cindi Bogan IV",
+          "employment": [
+            {
+              "Industry": "Food \u0026 Beverages",
+              "Company": "Grady-Bradtke",
+              "Profession": "nurse",
+              "Key Skills": "Networking skills",
+              "Email": "lashonda.lockman@yahoo.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Specialist",
+              "Job title": "Product Healthcare Liaison",
+              "Website": "www.cyril-mann.name",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "2928365": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biomedical Science",
+            "GPA": 2.92
+          },
+          "name": "Miss Kyong Roberts",
+          "employment": []
+        },
+        "2095990": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Psychology",
+            "GPA": 2.25
+          },
+          "name": "Cecil Keeling",
+          "employment": [
+            {
+              "Industry": "Animation",
+              "Company": "Walter, Reilly and Paucek",
+              "Profession": "air traffic controller",
+              "Key Skills": "Self-motivated",
+              "Email": "garrett.ferry@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Manager",
+              "Job title": "Product Community-Services Producer",
+              "Website": "www.pearly-howell.io",
+              "Seniority": "Lead"
+            }
+          ]
+        },
+        "7662648": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Business",
+            "GPA": 1.23
+          },
+          "name": "Miss Jordan Stiedemann",
+          "employment": [
+            {
+              "Industry": "Food Production",
+              "Company": "Raynor and Sons",
+              "Profession": "electrician",
+              "Key Skills": "Networking skills",
+              "Email": "rudy.hamill@gmail.com",
+              "Job Field": "Marketing",
+              "Job Position": "Director",
+              "Job title": "Internal Design Strategist",
+              "Website": "www.sondra-kling.us",
+              "Seniority": "Direct"
+            },
+            {
+              "Industry": "E-Learning",
+              "Company": "Reichel LLC",
+              "Profession": "carpenter",
+              "Key Skills": "Organisation",
+              "Email": "lindsey.green@hotmail.com",
+              "Job Field": "Government",
+              "Job Position": "Consultant",
+              "Job title": "Administration Analyst",
+              "Website": "www.efrain-gaylord.org",
+              "Seniority": "Future"
+            }
+          ]
+        },
+        "3658011": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Architectural Technology",
+            "GPA": 3.47
+          },
+          "name": "Johnathon Schulist",
+          "employment": [
+            {
+              "Industry": "Wireless",
+              "Company": "Gulgowski-Hane",
+              "Profession": "veterinary doctor",
+              "Key Skills": "Confidence",
+              "Email": "garth.altenwerth@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Developer",
+              "Job title": "Direct Supervisor",
+              "Website": "www.alfonzo-buckridge.us",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Graphic Design",
+              "Company": "Feest-Cartwright",
+              "Profession": "traffic warden",
+              "Key Skills": "Confidence",
+              "Email": "vanita.bins@hotmail.com",
+              "Job Field": "Sales",
+              "Job Position": "Manager",
+              "Job title": "Marketing Representative",
+              "Website": "www.dennis-lesch.com",
+              "Seniority": "Legacy"
+            },
+            {
+              "Industry": "Import and Export",
+              "Company": "Koss-Brown",
+              "Profession": "barber",
+              "Key Skills": "Self-motivated",
+              "Email": "willa.rosenbaum@hotmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Producer",
+              "Job title": "Banking Representative",
+              "Website": "www.dani-kilback.name",
+              "Seniority": "Lead"
+            }
+          ]
+        },
+        "8434701": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Design",
+            "GPA": 1.88
+          },
+          "name": "Carrol Rolfson III",
+          "employment": [
+            {
+              "Industry": "Automotive",
+              "Company": "Botsford-Flatley",
+              "Profession": "pilot",
+              "Key Skills": "Proactive",
+              "Email": "noel.stamm@hotmail.com",
+              "Job Field": "Accounting",
+              "Job Position": "Orchestrator",
+              "Job title": "Technology Technician",
+              "Website": "www.alisha-wintheiser.io",
+              "Seniority": "Direct"
+            },
+            {
+              "Industry": "Research",
+              "Company": "O\u0027Conner-Beier",
+              "Profession": "astronomer",
+              "Key Skills": "Confidence",
+              "Email": "shon.jacobs@hotmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Associate",
+              "Job title": "Global Construction Representative",
+              "Website": "www.curt-carroll.co",
+              "Seniority": "Investor"
+            },
+            {
+              "Industry": "Philanthropy",
+              "Company": "Gottlieb, Beier and Hermiston",
+              "Profession": "chemist",
+              "Key Skills": "Work under pressure",
+              "Email": "dominica.keebler@gmail.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Designer",
+              "Job title": "Product Sales Administrator",
+              "Website": "www.keenan-ferry.co",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "7189312": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Medicine",
+            "GPA": 2.86
+          },
+          "name": "Mr. Wei Glover",
+          "employment": [
+            {
+              "Industry": "Alternative Dispute Resolution",
+              "Company": "Kemmer-Satterfield",
+              "Profession": "doctor",
+              "Key Skills": "Organisation",
+              "Email": "natividad.king@hotmail.com",
+              "Job Field": "Education",
+              "Job Position": "Designer",
+              "Job title": "Product Construction Orchestrator",
+              "Website": "www.yolonda-braun.us",
+              "Seniority": "Customer"
+            },
+            {
+              "Industry": "Military",
+              "Company": "Schamberger Group",
+              "Profession": "photographer",
+              "Key Skills": "Confidence",
+              "Email": "lynette.towne@yahoo.com",
+              "Job Field": "Consulting",
+              "Job Position": "Analyst",
+              "Job title": "Dynamic Consultant",
+              "Website": "www.patrice-zieme.net",
+              "Seniority": "Customer"
+            }
+          ]
+        },
+        "5700216": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Arts",
+            "GPA": 2.24
+          },
+          "name": "Pok Fahey",
+          "employment": [
+            {
+              "Industry": "Semiconductors",
+              "Company": "Ziemann Group",
+              "Profession": "astronomer",
+              "Key Skills": "Proactive",
+              "Email": "fredia.kunde@hotmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Designer",
+              "Job title": "Farming Consultant",
+              "Website": "www.brendon-osinski.io",
+              "Seniority": "Chief"
+            },
+            {
+              "Industry": "Glass, Ceramics \u0026 Concrete",
+              "Company": "Bogan LLC",
+              "Profession": "lecturer",
+              "Key Skills": "Leadership",
+              "Email": "hyman.quitzon@gmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Orchestrator",
+              "Job title": "Future Architect",
+              "Website": "www.mui-zieme.co",
+              "Seniority": "Product"
+            }
+          ]
+        },
+        "6701768": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Commerce",
+            "GPA": 3.62
+          },
+          "name": "Ms. Everette Rosenbaum",
+          "employment": [
+            {
+              "Industry": "Information Services",
+              "Company": "Emmerich-Bernhard",
+              "Profession": "human resources",
+              "Key Skills": "Fast learner",
+              "Email": "mable.casper@yahoo.com",
+              "Job Field": "Advertising",
+              "Job Position": "Associate",
+              "Job title": "Principal Representative",
+              "Website": "www.farah-muller.biz",
+              "Seniority": "District"
+            }
+          ]
+        },
+        "2925251": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Teaching",
+            "GPA": 3.66
+          },
+          "name": "Chauncey Ondricka",
+          "employment": [
+            {
+              "Industry": "Outsourcing / Offshoring",
+              "Company": "Gerlach-Kassulke",
+              "Profession": "soldier",
+              "Key Skills": "Leadership",
+              "Email": "winfred.waters@hotmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Architect",
+              "Job title": "Internal Manufacturing Representative",
+              "Website": "www.guadalupe-swaniawski.info",
+              "Seniority": "National"
+            },
+            {
+              "Industry": "Think Tanks",
+              "Company": "Keeling, Kemmer and Swift",
+              "Profession": "travel agent",
+              "Key Skills": "Fast learner",
+              "Email": "christian.lowe@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Manager",
+              "Job title": "Government Coordinator",
+              "Website": "www.raymond-swaniawski.com",
+              "Seniority": "Senior"
+            },
+            {
+              "Industry": "Nonprofit Organization Management",
+              "Company": "Ernser, Kerluke and Bogan",
+              "Profession": "bookkeeper",
+              "Key Skills": "Teamwork",
+              "Email": "zack.willms@yahoo.com",
+              "Job Field": "Banking",
+              "Job Position": "Officer",
+              "Job title": "Customer Manufacturing Facilitator",
+              "Website": "www.randolph-schaden.biz",
+              "Seniority": "Global"
+            }
+          ]
+        },
+        "2292435": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Communications",
+            "GPA": 0.03
+          },
+          "name": "Crissy Gutkowski II",
+          "employment": [
+            {
+              "Industry": "Real Estate",
+              "Company": "Hills-Bradtke",
+              "Profession": "window cleaner",
+              "Key Skills": "Problem solving",
+              "Email": "felicia.anderson@yahoo.com",
+              "Job Field": "Marketing",
+              "Job Position": "Officer",
+              "Job title": "Legacy Manufacturing Representative",
+              "Website": "www.shayna-durgan.co",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Venture Capital \u0026 Private Equity",
+              "Company": "Kiehn and Sons",
+              "Profession": "firefighter",
+              "Key Skills": "Teamwork",
+              "Email": "malik.schmitt@yahoo.com",
+              "Job Field": "Advertising",
+              "Job Position": "Supervisor",
+              "Job title": "Human Marketing Engineer",
+              "Website": "www.eugene-jast.name",
+              "Seniority": "Lead"
+            },
+            {
+              "Industry": "Luxury Goods \u0026 Jewelry",
+              "Company": "Olson-Hackett",
+              "Profession": "architect",
+              "Key Skills": "Self-motivated",
+              "Email": "idalia.stracke@gmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Strategist",
+              "Job title": "Lead Real-Estate Engineer",
+              "Website": "www.stefan-windler.us",
+              "Seniority": "Global"
+            }
+          ]
+        },
+        "6057069": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Criminology",
+            "GPA": 0.49
+          },
+          "name": "Shannon Wiza",
+          "employment": [
+            {
+              "Industry": "Accounting",
+              "Company": "Schiller and Sons",
+              "Profession": "designer",
+              "Key Skills": "Technical savvy",
+              "Email": "joi.marquardt@yahoo.com",
+              "Job Field": "Banking",
+              "Job Position": "Officer",
+              "Job title": "Chief Mining Executive",
+              "Website": "www.lyman-olson.us",
+              "Seniority": "Central"
+            },
+            {
+              "Industry": "Security and Investigations",
+              "Company": "Grady Inc",
+              "Profession": "window cleaner",
+              "Key Skills": "Teamwork",
+              "Email": "ramiro.bernhard@gmail.com",
+              "Job Field": "Real-Estate",
+              "Job Position": "Consultant",
+              "Job title": "Chief Officer",
+              "Website": "www.lacy-beatty.us",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Fine Art",
+              "Company": "Beahan, Deckow and Gibson",
+              "Profession": "astronomer",
+              "Key Skills": "Proactive",
+              "Email": "preston.mraz@yahoo.com",
+              "Job Field": "Consulting",
+              "Job Position": "Engineer",
+              "Job title": "District Legal Director",
+              "Website": "www.june-baumbach.net",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "4243831": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Business",
+            "GPA": 0.98
+          },
+          "name": "Terrell Goodwin",
+          "employment": [
+            {
+              "Industry": "Individual \u0026 Family Services",
+              "Company": "Wunsch-Daniel",
+              "Profession": "newsreader",
+              "Key Skills": "Work under pressure",
+              "Email": "catrina.schamberger@yahoo.com",
+              "Job Field": "Mining",
+              "Job Position": "Agent",
+              "Job title": "Chief Legal Supervisor",
+              "Website": "www.britt-breitenberg.name",
+              "Seniority": "Internal"
+            }
+          ]
+        },
+        "7893217": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Architectural Technology",
+            "GPA": 3.6
+          },
+          "name": "Mardell Jacobi",
+          "employment": [
+            {
+              "Industry": "Events Services",
+              "Company": "Armstrong LLC",
+              "Profession": "agriculturist",
+              "Key Skills": "Leadership",
+              "Email": "lauren.homenick@hotmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Specialist",
+              "Job title": "Legacy Administration Planner",
+              "Website": "www.garry-buckridge.name",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "8835935": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Health Science",
+            "GPA": 2.81
+          },
+          "name": "Armando Kulas II",
+          "employment": [
+            {
+              "Industry": "Ranching",
+              "Company": "Durgan, Christiansen and Farrell",
+              "Profession": "programmer",
+              "Key Skills": "Problem solving",
+              "Email": "gertha.gutmann@yahoo.com",
+              "Job Field": "Education",
+              "Job Position": "Representative",
+              "Job title": "Legal Specialist",
+              "Website": "www.marian-cormier.us",
+              "Seniority": "Future"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "1106962": {
+          "courses": [
+            "HEAL3756",
+            "HEAL8091"
+          ],
+          "name": "Toney Osinski"
+        },
+        "3025437": {
+          "courses": [
+            "HEAL3756"
+          ],
+          "name": "Johnathan Corkery"
+        },
+        "6684400": {
+          "courses": [
+            "HEAL8091"
+          ],
+          "name": "Catina Koepp Jr."
+        },
+        "3042789": {
+          "courses": [
+            "HEAL3756"
+          ],
+          "name": "Krysten Quigley"
+        },
+        "7078071": {
+          "courses": [],
+          "name": "Alyse Brekke"
+        },
+        "9592414": {
+          "courses": [
+            "HEAL8091"
+          ],
+          "name": "Chas Bashirian"
+        },
+        "4330653": {
+          "courses": [],
+          "name": "Margarito Klocko"
+        }
+      }
+    },
+    "Social Science": {
+      "courses": {
+        "SOCI9701": {
+          "credits": 4,
+          "name": "Administration Manufacturing"
+        },
+        "SOCI2175": {
+          "credits": 2,
+          "name": "Real-Estate Banking"
+        },
+        "SOCI6800": {
+          "credits": 4,
+          "name": "Banking Consulting"
+        },
+        "SOCI4825": {
+          "credits": 4,
+          "name": "Technology Government"
+        },
+        "SOCI2103": {
+          "credits": 4,
+          "name": "Technology Marketing"
+        },
+        "SOCI9256": {
+          "credits": 3,
+          "name": "Sales Construction"
+        },
+        "SOCI9344": {
+          "credits": 4,
+          "name": "Marketing Legal"
+        },
+        "SOCI8422": {
+          "credits": 4,
+          "name": "Mining Construction"
+        }
+      },
+      "students": {
+        "7058761": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Computer Science",
+            "GPA": 3.7
+          },
+          "name": "Isaias Boyle",
+          "employment": [
+            {
+              "Industry": "Media Production",
+              "Company": "Becker, Hegmann and Ritchie",
+              "Profession": "secretary",
+              "Key Skills": "Networking skills",
+              "Email": "fidelia.bashirian@yahoo.com",
+              "Job Field": "Legal",
+              "Job Position": "Associate",
+              "Job title": "Technology Coordinator",
+              "Website": "www.hugh-rogahn.us",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "6763269": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Medicine",
+            "GPA": 1.9
+          },
+          "name": "Ella Prosacco II",
+          "employment": [
+            {
+              "Industry": "Music",
+              "Company": "Brekke and Sons",
+              "Profession": "mechanic",
+              "Key Skills": "Fast learner",
+              "Email": "aleida.nitzsche@gmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Manager",
+              "Job title": "Internal Healthcare Assistant",
+              "Website": "www.akilah-schoen.biz",
+              "Seniority": "National"
+            }
+          ]
+        },
+        "5597334": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biomedical Science",
+            "GPA": 1.66
+          },
+          "name": "Isreal Franecki",
+          "employment": [
+            {
+              "Industry": "Computer Networking",
+              "Company": "Ondricka-Jones",
+              "Profession": "actress",
+              "Key Skills": "Technical savvy",
+              "Email": "ahmad.kerluke@gmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Analyst",
+              "Job title": "Human Liaison",
+              "Website": "www.karl-barton.us",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Capital Markets",
+              "Company": "Kerluke-Feeney",
+              "Profession": "musician",
+              "Key Skills": "Self-motivated",
+              "Email": "noriko.adams@hotmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Associate",
+              "Job title": "Dynamic Retail Producer",
+              "Website": "www.emmett-kohler.org",
+              "Seniority": "Direct"
+            }
+          ]
+        },
+        "6136345": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Teaching",
+            "GPA": 3.01
+          },
+          "name": "Jarred Walsh",
+          "employment": [
+            {
+              "Industry": "Architecture \u0026 Planning",
+              "Company": "Mohr, Schuster and Frami",
+              "Profession": "librarian",
+              "Key Skills": "Proactive",
+              "Email": "rochell.mayer@yahoo.com",
+              "Job Field": "Construction",
+              "Job Position": "Officer",
+              "Job title": "Marketing Technician",
+              "Website": "www.lucius-legros.co",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "7896446": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Commerce",
+            "GPA": 3.77
+          },
+          "name": "Yuko Mohr",
+          "employment": [
+            {
+              "Industry": "Capital Markets",
+              "Company": "Zemlak, Welch and Leffler",
+              "Profession": "engineer",
+              "Key Skills": "Confidence",
+              "Email": "santo.bernier@hotmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Associate",
+              "Job title": "Principal Real-Estate Supervisor",
+              "Website": "www.lekisha-adams.us",
+              "Seniority": "District"
+            },
+            {
+              "Industry": "Public Safety",
+              "Company": "Zboncak, Macejkovic and VonRueden",
+              "Profession": "doctor",
+              "Key Skills": "Leadership",
+              "Email": "keely.damore@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Specialist",
+              "Job title": "Construction Architect",
+              "Website": "www.zina-daniel.org",
+              "Seniority": "National"
+            }
+          ]
+        },
+        "1111512": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Commerce",
+            "GPA": 3.35
+          },
+          "name": "Gregg Moore",
+          "employment": [
+            {
+              "Industry": "Broadcast Media",
+              "Company": "Stiedemann-Schumm",
+              "Profession": "butcher",
+              "Key Skills": "Leadership",
+              "Email": "carmelo.heathcote@yahoo.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Manager",
+              "Job title": "Direct Accounting Officer",
+              "Website": "www.zachariah-considine.org",
+              "Seniority": "Central"
+            },
+            {
+              "Industry": "Design",
+              "Company": "Glover-Nikolaus",
+              "Profession": "postman",
+              "Key Skills": "Self-motivated",
+              "Email": "sheldon.erdman@gmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Manager",
+              "Job title": "Global Retail Facilitator",
+              "Website": "www.karren-torphy.org",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Human Resources",
+              "Company": "Barton-Berge",
+              "Profession": "actor",
+              "Key Skills": "Networking skills",
+              "Email": "chrissy.braun@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Orchestrator",
+              "Job title": "Senior Marketing Associate",
+              "Website": "www.jerrica-rodriguez.com",
+              "Seniority": "Investor"
+            }
+          ]
+        },
+        "6780718": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Nursing",
+            "GPA": 2.63
+          },
+          "name": "Adrianna Konopelski",
+          "employment": [
+            {
+              "Industry": "Banking",
+              "Company": "Weimann Group",
+              "Profession": "programmer",
+              "Key Skills": "Leadership",
+              "Email": "clair.oberbrunner@gmail.com",
+              "Job Field": "Marketing",
+              "Job Position": "Analyst",
+              "Job title": "Product Consulting Supervisor",
+              "Website": "www.sharda-welch.io",
+              "Seniority": "Direct"
+            }
+          ]
+        },
+        "3504991": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Information Systems",
+            "GPA": 2.81
+          },
+          "name": "Elijah Padberg",
+          "employment": [
+            {
+              "Industry": "Oil \u0026 Energy",
+              "Company": "Cartwright-Cormier",
+              "Profession": "gardener",
+              "Key Skills": "Confidence",
+              "Email": "gonzalo.halvorson@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Consultant",
+              "Job title": "Accounting Architect",
+              "Website": "www.leatrice-rohan.biz",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "Pharmaceuticals",
+              "Company": "Murphy, Kuphal and Upton",
+              "Profession": "nurse",
+              "Key Skills": "Communication",
+              "Email": "son.murazik@gmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Producer",
+              "Job title": "Government Engineer",
+              "Website": "www.wanetta-labadie.info",
+              "Seniority": "Dynamic"
+            },
+            {
+              "Industry": "Mental Health Care",
+              "Company": "Rodriguez LLC",
+              "Profession": "lecturer",
+              "Key Skills": "Proactive",
+              "Email": "selena.kub@yahoo.com",
+              "Job Field": "Marketing",
+              "Job Position": "Executive",
+              "Job title": "Regional Orchestrator",
+              "Website": "www.leeanne-williamson.us",
+              "Seniority": "Regional"
+            }
+          ]
+        },
+        "5046530": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Communications",
+            "GPA": 2.38
+          },
+          "name": "Many Mertz",
+          "employment": [
+            {
+              "Industry": "Telecommunications",
+              "Company": "Bogisich, Doyle and Zieme",
+              "Profession": "postman",
+              "Key Skills": "Organisation",
+              "Email": "daine.harber@yahoo.com",
+              "Job Field": "Consulting",
+              "Job Position": "Manager",
+              "Job title": "Global Mining Engineer",
+              "Website": "www.sadie-leannon.co",
+              "Seniority": "Forward"
+            }
+          ]
+        },
+        "2315123": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Communications",
+            "GPA": 1.12
+          },
+          "name": "Faustino Howe",
+          "employment": [
+            {
+              "Industry": "Government Relations",
+              "Company": "Hirthe Inc",
+              "Profession": "astronomer",
+              "Key Skills": "Leadership",
+              "Email": "nana.schultz@yahoo.com",
+              "Job Field": "Sales",
+              "Job Position": "Planner",
+              "Job title": "Legal Supervisor",
+              "Website": "www.flo-wiza.info",
+              "Seniority": "Global"
+            },
+            {
+              "Industry": "Internet",
+              "Company": "Littel-Dietrich",
+              "Profession": "carpenter",
+              "Key Skills": "Fast learner",
+              "Email": "arleen.bergstrom@yahoo.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Producer",
+              "Job title": "Senior Education Liaison",
+              "Website": "www.carlo-schmitt.co",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "1661386": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Forensic Science",
+            "GPA": 1.53
+          },
+          "name": "Glenn Anderson",
+          "employment": [
+            {
+              "Industry": "Broadcast Media",
+              "Company": "Fadel-Bartoletti",
+              "Profession": "cashier",
+              "Key Skills": "Technical savvy",
+              "Email": "adell.ankunding@yahoo.com",
+              "Job Field": "IT",
+              "Job Position": "Consultant",
+              "Job title": "Internal Orchestrator",
+              "Website": "www.trinh-yundt.name",
+              "Seniority": "Product"
+            },
+            {
+              "Industry": "Aviation \u0026 Aerospace",
+              "Company": "Schulist-Schiller",
+              "Profession": "writer",
+              "Key Skills": "Fast learner",
+              "Email": "octavia.bogisich@gmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Executive",
+              "Job title": "Product Banking Engineer",
+              "Website": "www.jayne-heathcote.name",
+              "Seniority": "International"
+            },
+            {
+              "Industry": "Fine Art",
+              "Company": "Kreiger, Wolf and Williamson",
+              "Profession": "lawyer",
+              "Key Skills": "Confidence",
+              "Email": "rodger.miller@gmail.com",
+              "Job Field": "Education",
+              "Job Position": "Representative",
+              "Job title": "Direct Mining Liaison",
+              "Website": "www.mayme-kilback.co",
+              "Seniority": "Principal"
+            }
+          ]
+        },
+        "3834636": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Nursing",
+            "GPA": 1.48
+          },
+          "name": "Jackie Hickle",
+          "employment": [
+            {
+              "Industry": "Railroad Manufacture",
+              "Company": "Hodkiewicz, Runolfsdottir and Ziemann",
+              "Profession": "model",
+              "Key Skills": "Networking skills",
+              "Email": "staci.bernier@yahoo.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Director",
+              "Job title": "Direct Administration Technician",
+              "Website": "www.trinidad-armstrong.net",
+              "Seniority": "Regional"
+            },
+            {
+              "Industry": "Real Estate",
+              "Company": "Schamberger, Hoeger and O\u0027Keefe",
+              "Profession": "waiter",
+              "Key Skills": "Networking skills",
+              "Email": "daren.waters@gmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Representative",
+              "Job title": "IT Administrator",
+              "Website": "www.marcelino-hagenes.info",
+              "Seniority": "Direct"
+            }
+          ]
+        },
+        "8962672": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Medicine",
+            "GPA": 1.69
+          },
+          "name": "Jack Morar",
+          "employment": [
+            {
+              "Industry": "Recreational Facilities and Services",
+              "Company": "Jenkins Group",
+              "Profession": "nurse",
+              "Key Skills": "Leadership",
+              "Email": "fae.cummerata@gmail.com",
+              "Job Field": "Government",
+              "Job Position": "Specialist",
+              "Job title": "Future Consulting Associate",
+              "Website": "www.todd-powlowski.info",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Package / Freight Delivery",
+              "Company": "Buckridge, Rutherford and Beatty",
+              "Profession": "pharmacist",
+              "Key Skills": "Problem solving",
+              "Email": "duane.schamberger@yahoo.com",
+              "Job Field": "Mining",
+              "Job Position": "Engineer",
+              "Job title": "Regional Mining Assistant",
+              "Website": "www.cristi-feest.com",
+              "Seniority": "National"
+            }
+          ]
+        },
+        "7340969": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Communications",
+            "GPA": 0.92
+          },
+          "name": "Devora Feest",
+          "employment": []
+        },
+        "3149865": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Architectural Technology",
+            "GPA": 3.06
+          },
+          "name": "Yoshiko Steuber",
+          "employment": []
+        },
+        "7496553": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Law",
+            "GPA": 1.65
+          },
+          "name": "Frida Grant",
+          "employment": [
+            {
+              "Industry": "Graphic Design",
+              "Company": "Boyle, Huel and Bergnaum",
+              "Profession": "factory worker",
+              "Key Skills": "Confidence",
+              "Email": "lucas.wunsch@hotmail.com",
+              "Job Field": "Government",
+              "Job Position": "Liaison",
+              "Job title": "Principal Developer",
+              "Website": "www.rosendo-bernier.biz",
+              "Seniority": "Regional"
+            },
+            {
+              "Industry": "Market Research",
+              "Company": "Stoltenberg, Rice and Gibson",
+              "Profession": "tailor",
+              "Key Skills": "Teamwork",
+              "Email": "marcellus.rogahn@gmail.com",
+              "Job Field": "Marketing",
+              "Job Position": "Analyst",
+              "Job title": "Product Architect",
+              "Website": "www.troy-schmidt.name",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "3756135": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Information Systems",
+            "GPA": 2.01
+          },
+          "name": "Miss Casey Christiansen",
+          "employment": [
+            {
+              "Industry": "Philanthropy",
+              "Company": "Simonis, Boyer and Kertzmann",
+              "Profession": "actress",
+              "Key Skills": "Self-motivated",
+              "Email": "lora.deckow@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Representative",
+              "Job title": "District Technology Officer",
+              "Website": "www.ta-berge.org",
+              "Seniority": "Customer"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "4277507": {
+          "courses": [
+            "SOCI2175",
+            "SOCI6800",
+            "SOCI2103",
+            "SOCI8422"
+          ],
+          "name": "Ila Schmidt"
+        },
+        "4622043": {
+          "courses": [
+            "SOCI9701",
+            "SOCI9256",
+            "SOCI9344",
+            "SOCI8422"
+          ],
+          "name": "Miss Geoffrey Predovic"
+        },
+        "5390572": {
+          "courses": [
+            "SOCI9701",
+            "SOCI2103",
+            "SOCI9256",
+            "SOCI9344"
+          ],
+          "name": "Tammara Herman DVM"
+        },
+        "9525743": {
+          "courses": [
+            "SOCI9701",
+            "SOCI2103",
+            "SOCI9256",
+            "SOCI8422"
+          ],
+          "name": "Marine Collier"
+        },
+        "4847814": {
+          "courses": [
+            "SOCI2175",
+            "SOCI9344"
+          ],
+          "name": "Minta Kuhn"
+        }
+      }
+    },
+    "Electrical Engineering": {
+      "courses": {
+        "ELEC7419": {
+          "credits": 4,
+          "name": "Real-Estate Sales"
+        },
+        "ELEC3184": {
+          "credits": 4,
+          "name": "Community-Services Accounting"
+        }
+      },
+      "students": {},
+      "faculty": {
+        "1503510": {
+          "courses": [],
+          "name": "Domenica Rippin"
+        },
+        "4500261": {
+          "courses": [
+            "ELEC7419",
+            "ELEC3184"
+          ],
+          "name": "Cecil King"
+        },
+        "6476080": {
+          "courses": [
+            "ELEC7419"
+          ],
+          "name": "Rutha Hegmann DDS"
+        },
+        "1505731": {
+          "courses": [
+            "ELEC3184"
+          ],
+          "name": "Diana Jaskolski"
+        },
+        "1987462": {
+          "courses": [
+            "ELEC3184"
+          ],
+          "name": "Dr. Maximo Strosin"
+        },
+        "2423016": {
+          "courses": [
+            "ELEC7419",
+            "ELEC3184"
+          ],
+          "name": "Ali King"
+        }
+      }
+    }
+  },
+  "Northern Toy": {
+    "Civil Engineering": {
+      "courses": {
+        "CIVI6968": {
+          "credits": 4,
+          "name": "Mining Mining"
+        },
+        "CIVI5610": {
+          "credits": 4,
+          "name": "Marketing Marketing"
+        }
+      },
+      "students": {
+        "7682901": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Information Systems",
+            "GPA": 0.89
+          },
+          "name": "Jeremiah Sipes",
+          "employment": [
+            {
+              "Industry": "Health, Wellness and Fitness",
+              "Company": "Jakubowski-Zemlak",
+              "Profession": "actor",
+              "Key Skills": "Networking skills",
+              "Email": "everette.kuphal@gmail.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Assistant",
+              "Job title": "Direct Manager",
+              "Website": "www.hermine-bernier.io",
+              "Seniority": "Customer"
+            },
+            {
+              "Industry": "Outsourcing / Offshoring",
+              "Company": "Hauck and Sons",
+              "Profession": "secretary",
+              "Key Skills": "Organisation",
+              "Email": "nelson.lehner@hotmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Producer",
+              "Job title": "Human Planner",
+              "Website": "www.delila-howell.name",
+              "Seniority": "Senior"
+            }
+          ]
+        },
+        "3226960": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Architectural Technology",
+            "GPA": 1.31
+          },
+          "name": "Joshua Littel",
+          "employment": [
+            {
+              "Industry": "Fund-Raising",
+              "Company": "Frami and Sons",
+              "Profession": "lawyer",
+              "Key Skills": "Problem solving",
+              "Email": "pia.ritchie@gmail.com",
+              "Job Field": "Real-Estate",
+              "Job Position": "Supervisor",
+              "Job title": "Accounting Representative",
+              "Website": "www.aurora-anderson.io",
+              "Seniority": "Product"
+            },
+            {
+              "Industry": "Oil \u0026 Energy",
+              "Company": "Kessler-Wisozk",
+              "Profession": "bookkeeper",
+              "Key Skills": "Teamwork",
+              "Email": "katherin.connelly@gmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Agent",
+              "Job title": "Direct Real-Estate Architect",
+              "Website": "www.nereida-hegmann.info",
+              "Seniority": "Direct"
+            }
+          ]
+        },
+        "1364054": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Commerce",
+            "GPA": 2.88
+          },
+          "name": "Bonny Jast",
+          "employment": [
+            {
+              "Industry": "Internet",
+              "Company": "Waters-Effertz",
+              "Profession": "dietician",
+              "Key Skills": "Fast learner",
+              "Email": "cira.price@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Analyst",
+              "Job title": "IT Assistant",
+              "Website": "www.leah-kohler.us",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Chemicals",
+              "Company": "Reichel, Yundt and Thompson",
+              "Profession": "newsreader",
+              "Key Skills": "Organisation",
+              "Email": "billie.collier@hotmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Engineer",
+              "Job title": "District Mining Analyst",
+              "Website": "www.roy-abernathy.org",
+              "Seniority": "Human"
+            },
+            {
+              "Industry": "Computer \u0026 Network Security",
+              "Company": "Nitzsche, Walsh and Kessler",
+              "Profession": "soldier",
+              "Key Skills": "Networking skills",
+              "Email": "rey.koss@gmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Representative",
+              "Job title": "Senior Design Facilitator",
+              "Website": "www.dallas-oconner.info",
+              "Seniority": "District"
+            }
+          ]
+        },
+        "3855961": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Design",
+            "GPA": 1.95
+          },
+          "name": "Ms. Iva Gottlieb",
+          "employment": [
+            {
+              "Industry": "Veterinary",
+              "Company": "Williamson-Aufderhar",
+              "Profession": "police officer",
+              "Key Skills": "Communication",
+              "Email": "fae.abshire@gmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Architect",
+              "Job title": "IT Architect",
+              "Website": "www.jaime-luettgen.co",
+              "Seniority": "Product"
+            },
+            {
+              "Industry": "Packaging and Containers",
+              "Company": "Jones, Quigley and Bogan",
+              "Profession": "web developer",
+              "Key Skills": "Work under pressure",
+              "Email": "anabel.wolf@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Supervisor",
+              "Job title": "Accounting Agent",
+              "Website": "www.shauna-hilpert.biz",
+              "Seniority": "Future"
+            }
+          ]
+        },
+        "2648834": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Communications",
+            "GPA": 2.25
+          },
+          "name": "Suzie Halvorson",
+          "employment": [
+            {
+              "Industry": "Computer Hardware",
+              "Company": "Collier, Jaskolski and Marquardt",
+              "Profession": "shop assistant",
+              "Key Skills": "Fast learner",
+              "Email": "alvaro.mayert@gmail.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Analyst",
+              "Job title": "Customer Legal Specialist",
+              "Website": "www.angel-langworth.io",
+              "Seniority": "Direct"
+            },
+            {
+              "Industry": "Animation",
+              "Company": "Volkman LLC",
+              "Profession": "actor",
+              "Key Skills": "Confidence",
+              "Email": "lottie.brakus@gmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Producer",
+              "Job title": "Chief Specialist",
+              "Website": "www.loyce-stamm.us",
+              "Seniority": "Central"
+            },
+            {
+              "Industry": "E-Learning",
+              "Company": "Blanda LLC",
+              "Profession": "writer",
+              "Key Skills": "Work under pressure",
+              "Email": "lianne.herzog@hotmail.com",
+              "Job Field": "Design",
+              "Job Position": "Agent",
+              "Job title": "Internal Supervisor",
+              "Website": "www.clarissa-gerlach.info",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "1788087": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Education",
+            "GPA": 2.81
+          },
+          "name": "Loraine Ankunding",
+          "employment": []
+        },
+        "3966833": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biological Science",
+            "GPA": 1.01
+          },
+          "name": "Brent Schmidt Jr.",
+          "employment": [
+            {
+              "Industry": "Human Resources",
+              "Company": "Yost Inc",
+              "Profession": "window cleaner",
+              "Key Skills": "Problem solving",
+              "Email": "shizue.mann@yahoo.com",
+              "Job Field": "Farming",
+              "Job Position": "Director",
+              "Job title": "Regional Healthcare Representative",
+              "Website": "www.shanelle-adams.com",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "9741349": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Biological Science",
+            "GPA": 1.21
+          },
+          "name": "Tomiko Wuckert",
+          "employment": [
+            {
+              "Industry": "Defense \u0026 Space",
+              "Company": "Grady, Larson and Rohan",
+              "Profession": "doctor",
+              "Key Skills": "Confidence",
+              "Email": "isreal.bahringer@gmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Analyst",
+              "Job title": "Healthcare Planner",
+              "Website": "www.willa-miller.name",
+              "Seniority": "Chief"
+            },
+            {
+              "Industry": "Political Organization",
+              "Company": "Graham, Lemke and Considine",
+              "Profession": "barber",
+              "Key Skills": "Communication",
+              "Email": "dewey.klocko@gmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Strategist",
+              "Job title": "Banking Liaison",
+              "Website": "www.lavonna-crist.us",
+              "Seniority": "Lead"
+            }
+          ]
+        },
+        "4498966": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Arts",
+            "GPA": 1.31
+          },
+          "name": "Lizzette Cormier",
+          "employment": [
+            {
+              "Industry": "Nonprofit Organization Management",
+              "Company": "Wuckert-Schaden",
+              "Profession": "optician",
+              "Key Skills": "Teamwork",
+              "Email": "clinton.altenwerth@gmail.com",
+              "Job Field": "Government",
+              "Job Position": "Manager",
+              "Job title": "Human Sales Orchestrator",
+              "Website": "www.theo-lebsack.org",
+              "Seniority": "Legacy"
+            },
+            {
+              "Industry": "Venture Capital \u0026 Private Equity",
+              "Company": "Borer, Brakus and Gutmann",
+              "Profession": "librarian",
+              "Key Skills": "Fast learner",
+              "Email": "zachery.satterfield@yahoo.com",
+              "Job Field": "Education",
+              "Job Position": "Developer",
+              "Job title": "Technology Architect",
+              "Website": "www.meaghan-turner.org",
+              "Seniority": "Principal"
+            }
+          ]
+        },
+        "4656340": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Commerce",
+            "GPA": 1.55
+          },
+          "name": "Dr. Mohammad Mraz",
+          "employment": [
+            {
+              "Industry": "International Trade and Development",
+              "Company": "Leffler-Baumbach",
+              "Profession": "lawyer",
+              "Key Skills": "Work under pressure",
+              "Email": "carmelo.corwin@hotmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Facilitator",
+              "Job title": "Human Agent",
+              "Website": "www.ross-macgyver.co",
+              "Seniority": "Central"
+            },
+            {
+              "Industry": "Wholesale",
+              "Company": "Balistreri LLC",
+              "Profession": "secretary",
+              "Key Skills": "Work under pressure",
+              "Email": "adolph.torphy@yahoo.com",
+              "Job Field": "Retail",
+              "Job Position": "Strategist",
+              "Job title": "Consulting Representative",
+              "Website": "www.pedro-hyatt.co",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "9140312": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Information Systems",
+            "GPA": 1.03
+          },
+          "name": "Vonda Beatty",
+          "employment": [
+            {
+              "Industry": "Electrical / Electronic Manufacturing",
+              "Company": "Leffler Group",
+              "Profession": "factory worker",
+              "Key Skills": "Organisation",
+              "Email": "bradley.wuckert@hotmail.com",
+              "Job Field": "Advertising",
+              "Job Position": "Specialist",
+              "Job title": "Central Marketing Consultant",
+              "Website": "www.larry-gutmann.com",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Outsourcing / Offshoring",
+              "Company": "Doyle, Cassin and Olson",
+              "Profession": "designer",
+              "Key Skills": "Technical savvy",
+              "Email": "caridad.carroll@yahoo.com",
+              "Job Field": "Legal",
+              "Job Position": "Architect",
+              "Job title": "Lead Consultant",
+              "Website": "www.gary-graham.org",
+              "Seniority": "Customer"
+            },
+            {
+              "Industry": "Higher Education",
+              "Company": "Marquardt, Stracke and Thompson",
+              "Profession": "receptionist",
+              "Key Skills": "Confidence",
+              "Email": "floretta.toy@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Director",
+              "Job title": "Central Hospitality Officer",
+              "Website": "www.harriet-crist.io",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "4174795": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Applied Science (Psychology)",
+            "GPA": 0.72
+          },
+          "name": "Mel Effertz",
+          "employment": [
+            {
+              "Industry": "Civic \u0026 Social Organization",
+              "Company": "Abbott-Deckow",
+              "Profession": "attorney",
+              "Key Skills": "Work under pressure",
+              "Email": "ozella.nikolaus@gmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Designer",
+              "Job title": "Sales Agent",
+              "Website": "www.ezekiel-quitzon.io",
+              "Seniority": "National"
+            },
+            {
+              "Industry": "Ranching",
+              "Company": "Dooley Group",
+              "Profession": "taxi driver",
+              "Key Skills": "Technical savvy",
+              "Email": "norman.kuvalis@yahoo.com",
+              "Job Field": "Administration",
+              "Job Position": "Strategist",
+              "Job title": "Retail Analyst",
+              "Website": "www.georgene-satterfield.io",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Law Practice",
+              "Company": "Towne-Hahn",
+              "Profession": "actor",
+              "Key Skills": "Organisation",
+              "Email": "janee.hudson@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Officer",
+              "Job title": "Global Legal Representative",
+              "Website": "www.candace-pfeffer.name",
+              "Seniority": "Senior"
+            }
+          ]
+        },
+        "1116036": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Information Systems",
+            "GPA": 1.79
+          },
+          "name": "Jamey Kilback",
+          "employment": [
+            {
+              "Industry": "Food Production",
+              "Company": "Schaefer, Hagenes and Spinka",
+              "Profession": "receptionist",
+              "Key Skills": "Networking skills",
+              "Email": "aldo.streich@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Representative",
+              "Job title": "Corporate Technology Representative",
+              "Website": "www.alise-sawayn.net",
+              "Seniority": "Lead"
+            },
+            {
+              "Industry": "Logistics and Supply Chain",
+              "Company": "Macejkovic, Olson and Raynor",
+              "Profession": "web developer",
+              "Key Skills": "Proactive",
+              "Email": "jennefer.altenwerth@hotmail.com",
+              "Job Field": "Sales",
+              "Job Position": "Consultant",
+              "Job title": "Regional Manufacturing Associate",
+              "Website": "www.hilaria-heller.info",
+              "Seniority": "Global"
+            },
+            {
+              "Industry": "Commercial Real Estate",
+              "Company": "Blick Group",
+              "Profession": "tailor",
+              "Key Skills": "Networking skills",
+              "Email": "ayako.kihn@hotmail.com",
+              "Job Field": "Retail",
+              "Job Position": "Supervisor",
+              "Job title": "Healthcare Executive",
+              "Website": "www.columbus-pouros.name",
+              "Seniority": "Regional"
+            }
+          ]
+        },
+        "6255626": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Nursing",
+            "GPA": 2.18
+          },
+          "name": "Ardelia Heller",
+          "employment": [
+            {
+              "Industry": "Think Tanks",
+              "Company": "Miller, Cronin and Bradtke",
+              "Profession": "waiter",
+              "Key Skills": "Organisation",
+              "Email": "luke.reichel@yahoo.com",
+              "Job Field": "Accounting",
+              "Job Position": "Architect",
+              "Job title": "Direct Mining Specialist",
+              "Website": "www.sean-carter.com",
+              "Seniority": "Corporate"
+            },
+            {
+              "Industry": "Airlines / Aviation",
+              "Company": "Hessel, Kihn and Kautzer",
+              "Profession": "fiherman",
+              "Key Skills": "Leadership",
+              "Email": "rhett.pollich@hotmail.com",
+              "Job Field": "Education",
+              "Job Position": "Liaison",
+              "Job title": "Design Manager",
+              "Website": "www.kelsi-klocko.net",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "2664158": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biological Science",
+            "GPA": 2.39
+          },
+          "name": "Leonarda Conn",
+          "employment": [
+            {
+              "Industry": "Public Policy",
+              "Company": "Hane, Hammes and Bartell",
+              "Profession": "lawyer",
+              "Key Skills": "Organisation",
+              "Email": "zita.bogisich@gmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Planner",
+              "Job title": "Healthcare Planner",
+              "Website": "www.hallie-osinski.info",
+              "Seniority": "Regional"
+            },
+            {
+              "Industry": "Food Production",
+              "Company": "Dicki-Maggio",
+              "Profession": "soldier",
+              "Key Skills": "Confidence",
+              "Email": "klara.farrell@yahoo.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Director",
+              "Job title": "Healthcare Coordinator",
+              "Website": "www.margit-farrell.net",
+              "Seniority": "District"
+            }
+          ]
+        },
+        "1418639": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Law",
+            "GPA": 3.75
+          },
+          "name": "Alyce Towne",
+          "employment": []
+        },
+        "4048323": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Design",
+            "GPA": 2.12
+          },
+          "name": "Alva Dicki",
+          "employment": [
+            {
+              "Industry": "Apparel \u0026 Fashion",
+              "Company": "Konopelski Inc",
+              "Profession": "window cleaner",
+              "Key Skills": "Technical savvy",
+              "Email": "german.greenfelder@yahoo.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Director",
+              "Job title": "District Manager",
+              "Website": "www.harold-marks.info",
+              "Seniority": "Dynamic"
+            },
+            {
+              "Industry": "Venture Capital \u0026 Private Equity",
+              "Company": "Romaguera-Bradtke",
+              "Profession": "biologist",
+              "Key Skills": "Fast learner",
+              "Email": "madonna.corkery@gmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Coordinator",
+              "Job title": "Community-Services Manager",
+              "Website": "www.mohammed-adams.io",
+              "Seniority": "District"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "8711636": {
+          "courses": [],
+          "name": "Dr. Crystal Kozey"
+        },
+        "7381601": {
+          "courses": [
+            "CIVI5610"
+          ],
+          "name": "Wilbur Yost"
+        },
+        "8686691": {
+          "courses": [
+            "CIVI5610"
+          ],
+          "name": "Dr. Latisha Medhurst"
+        },
+        "4869314": {
+          "courses": [],
+          "name": "Burl Jacobs DDS"
+        },
+        "5272377": {
+          "courses": [],
+          "name": "Autumn Skiles DDS"
+        },
+        "9520088": {
+          "courses": [
+            "CIVI6968"
+          ],
+          "name": "Palmer Schultz V"
+        },
+        "4779015": {
+          "courses": [
+            "CIVI5610"
+          ],
+          "name": "Gabriel Hamill"
+        }
+      }
+    },
+    "Computer Science": {
+      "courses": {
+        "COMP7281": {
+          "credits": 4,
+          "name": "Sales Consulting"
+        },
+        "COMP7594": {
+          "credits": 3,
+          "name": "Real-Estate IT"
+        },
+        "COMP6695": {
+          "credits": 2,
+          "name": "Marketing Banking"
+        },
+        "COMP4006": {
+          "credits": 2,
+          "name": "Advertising Administration"
+        },
+        "COMP9898": {
+          "credits": 1,
+          "name": "Hospitality Consulting"
+        }
+      },
+      "students": {
+        "3119823": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Forensic Science",
+            "GPA": 3.18
+          },
+          "name": "Lucinda Robel",
+          "employment": [
+            {
+              "Industry": "Graphic Design",
+              "Company": "Tremblay, Dach and O\u0027Connell",
+              "Profession": "factory worker",
+              "Key Skills": "Self-motivated",
+              "Email": "delbert.heller@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Associate",
+              "Job title": "Customer Legal Technician",
+              "Website": "www.anh-hilpert.net",
+              "Seniority": "District"
+            },
+            {
+              "Industry": "Design",
+              "Company": "Beatty, Senger and Hintz",
+              "Profession": "coach",
+              "Key Skills": "Fast learner",
+              "Email": "barton.hettinger@hotmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Supervisor",
+              "Job title": "National Marketing Manager",
+              "Website": "www.clyde-crooks.org",
+              "Seniority": "Principal"
+            },
+            {
+              "Industry": "Environmental Services",
+              "Company": "Feil Group",
+              "Profession": "economist",
+              "Key Skills": "Proactive",
+              "Email": "jorge.bergstrom@hotmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Architect",
+              "Job title": "Mining Planner",
+              "Website": "www.rusty-barton.biz",
+              "Seniority": "Customer"
+            }
+          ]
+        },
+        "3079151": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Psychology",
+            "GPA": 3.83
+          },
+          "name": "Mr. Eva Gusikowski",
+          "employment": [
+            {
+              "Industry": "Printing",
+              "Company": "Funk-Paucek",
+              "Profession": "philosopher",
+              "Key Skills": "Leadership",
+              "Email": "ivonne.schimmel@yahoo.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Executive",
+              "Job title": "Consulting Strategist",
+              "Website": "www.shelley-nicolas.name",
+              "Seniority": "Dynamic"
+            },
+            {
+              "Industry": "Business Supplies and Equipment",
+              "Company": "Rolfson-Kub",
+              "Profession": "banker",
+              "Key Skills": "Technical savvy",
+              "Email": "burl.mraz@hotmail.com",
+              "Job Field": "Education",
+              "Job Position": "Administrator",
+              "Job title": "Sales Developer",
+              "Website": "www.beaulah-weber.org",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "6006781": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Forensic Science",
+            "GPA": 2.68
+          },
+          "name": "Raquel Reilly",
+          "employment": [
+            {
+              "Industry": "Pharmaceuticals",
+              "Company": "McGlynn-Mraz",
+              "Profession": "window cleaner",
+              "Key Skills": "Organisation",
+              "Email": "aaron.dibbert@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Officer",
+              "Job title": "Central Legal Engineer",
+              "Website": "www.dyan-muller.name",
+              "Seniority": "Senior"
+            },
+            {
+              "Industry": "Apparel \u0026 Fashion",
+              "Company": "Cassin, Sauer and Kirlin",
+              "Profession": "secretary",
+              "Key Skills": "Networking skills",
+              "Email": "marlin.abbott@gmail.com",
+              "Job Field": "Design",
+              "Job Position": "Consultant",
+              "Job title": "Global Community-Services Specialist",
+              "Website": "www.gerard-beer.us",
+              "Seniority": "Senior"
+            }
+          ]
+        },
+        "6516036": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Forensic Science",
+            "GPA": 1.52
+          },
+          "name": "Stanley Bayer",
+          "employment": [
+            {
+              "Industry": "Higher Education",
+              "Company": "Kozey, Gaylord and Collins",
+              "Profession": "veterinary doctor",
+              "Key Skills": "Fast learner",
+              "Email": "pamila.little@gmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Supervisor",
+              "Job title": "Dynamic Producer",
+              "Website": "www.dominick-shanahan.co",
+              "Seniority": "Future"
+            }
+          ]
+        },
+        "4233737": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Arts",
+            "GPA": 2.15
+          },
+          "name": "Earl Waelchi",
+          "employment": [
+            {
+              "Industry": "Motion Pictures and Film",
+              "Company": "Yundt Inc",
+              "Profession": "barber",
+              "Key Skills": "Communication",
+              "Email": "horacio.raynor@gmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Facilitator",
+              "Job title": "Human Healthcare Supervisor",
+              "Website": "www.lorina-klocko.name",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Fund-Raising",
+              "Company": "Mante LLC",
+              "Profession": "architect",
+              "Key Skills": "Fast learner",
+              "Email": "nicole.ryan@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Assistant",
+              "Job title": "Future Administration Engineer",
+              "Website": "www.jaclyn-romaguera.org",
+              "Seniority": "District"
+            },
+            {
+              "Industry": "Executive Office",
+              "Company": "Kozey-Hartmann",
+              "Profession": "butcher",
+              "Key Skills": "Confidence",
+              "Email": "alexia.armstrong@gmail.com",
+              "Job Field": "Education",
+              "Job Position": "Analyst",
+              "Job title": "Administration Director",
+              "Website": "www.asha-berge.info",
+              "Seniority": "Dynamic"
+            }
+          ]
+        },
+        "1594513": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Health Science",
+            "GPA": 0.05
+          },
+          "name": "Emilie Cole",
+          "employment": [
+            {
+              "Industry": "Professional Training \u0026 Coaching",
+              "Company": "Ledner, Predovic and Dooley",
+              "Profession": "receptionist",
+              "Key Skills": "Organisation",
+              "Email": "pinkie.white@gmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Director",
+              "Job title": "Design Administrator",
+              "Website": "www.stan-luettgen.org",
+              "Seniority": "District"
+            },
+            {
+              "Industry": "Internet",
+              "Company": "Stark-Nikolaus",
+              "Profession": "photographer",
+              "Key Skills": "Self-motivated",
+              "Email": "jamie.heller@hotmail.com",
+              "Job Field": "Design",
+              "Job Position": "Producer",
+              "Job title": "Investor Advertising Facilitator",
+              "Website": "www.jose-wisoky.co",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Consumer Goods",
+              "Company": "Haley-Reichert",
+              "Profession": "receptionist",
+              "Key Skills": "Leadership",
+              "Email": "edmund.mcdermott@hotmail.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Engineer",
+              "Job title": "International Education Strategist",
+              "Website": "www.benjamin-barrows.net",
+              "Seniority": "Investor"
+            }
+          ]
+        },
+        "7647583": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Computer Science",
+            "GPA": 2.46
+          },
+          "name": "Dexter Goodwin",
+          "employment": [
+            {
+              "Industry": "Management Consulting",
+              "Company": "Stracke-Maggio",
+              "Profession": "photographer",
+              "Key Skills": "Problem solving",
+              "Email": "jamel.steuber@hotmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Specialist",
+              "Job title": "Internal Assistant",
+              "Website": "www.karyn-halvorson.name",
+              "Seniority": "Senior"
+            },
+            {
+              "Industry": "Gambling \u0026 Casinos",
+              "Company": "Marvin-Olson",
+              "Profession": "postman",
+              "Key Skills": "Work under pressure",
+              "Email": "sean.metz@hotmail.com",
+              "Job Field": "IT",
+              "Job Position": "Assistant",
+              "Job title": "Investor Mining Liaison",
+              "Website": "www.kenton-upton.com",
+              "Seniority": "Product"
+            }
+          ]
+        },
+        "4686985": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Forensic Science",
+            "GPA": 3.1
+          },
+          "name": "Miss Faith Baumbach",
+          "employment": [
+            {
+              "Industry": "Insurance",
+              "Company": "Schultz-Effertz",
+              "Profession": "butcher",
+              "Key Skills": "Organisation",
+              "Email": "daniel.abernathy@gmail.com",
+              "Job Field": "Accounting",
+              "Job Position": "Producer",
+              "Job title": "Dynamic Accounting Designer",
+              "Website": "www.graham-farrell.io",
+              "Seniority": "International"
+            },
+            {
+              "Industry": "Sports",
+              "Company": "Lueilwitz, Schroeder and McKenzie",
+              "Profession": "hairdresser",
+              "Key Skills": "Proactive",
+              "Email": "lynette.rutherford@gmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Engineer",
+              "Job title": "National Administrator",
+              "Website": "www.stephan-rosenbaum.org",
+              "Seniority": "Dynamic"
+            },
+            {
+              "Industry": "Banking",
+              "Company": "Wolf, Runolfsson and Bernhard",
+              "Profession": "electrician",
+              "Key Skills": "Self-motivated",
+              "Email": "frances.breitenberg@hotmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Producer",
+              "Job title": "Sales Director",
+              "Website": "www.mac-gutmann.org",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "7266654": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Teaching",
+            "GPA": 1.38
+          },
+          "name": "Illa Ernser",
+          "employment": [
+            {
+              "Industry": "Aviation \u0026 Aerospace",
+              "Company": "Luettgen Inc",
+              "Profession": "dentist",
+              "Key Skills": "Technical savvy",
+              "Email": "august.murazik@hotmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Director",
+              "Job title": "National Design Agent",
+              "Website": "www.jack-senger.org",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "4581041": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Design",
+            "GPA": 1.38
+          },
+          "name": "Efrain Wintheiser",
+          "employment": []
+        },
+        "2390066": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Design",
+            "GPA": 3.63
+          },
+          "name": "Mrs. Desiree Marks",
+          "employment": [
+            {
+              "Industry": "Museums and Institutions",
+              "Company": "Streich, Hamill and Berge",
+              "Profession": "tailor",
+              "Key Skills": "Organisation",
+              "Email": "herman.effertz@gmail.com",
+              "Job Field": "Advertising",
+              "Job Position": "Planner",
+              "Job title": "International Officer",
+              "Website": "www.merle-zieme.co",
+              "Seniority": "Lead"
+            },
+            {
+              "Industry": "Research",
+              "Company": "Towne-Ferry",
+              "Profession": "designer",
+              "Key Skills": "Confidence",
+              "Email": "connie.hoppe@yahoo.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Liaison",
+              "Job title": "District IT Supervisor",
+              "Website": "www.fallon-trantow.com",
+              "Seniority": "Principal"
+            }
+          ]
+        },
+        "8294729": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Commerce",
+            "GPA": 1.68
+          },
+          "name": "Mr. Vanda Hayes",
+          "employment": [
+            {
+              "Industry": "Graphic Design",
+              "Company": "Bruen, Wyman and Kuhlman",
+              "Profession": "developer",
+              "Key Skills": "Proactive",
+              "Email": "gary.sauer@gmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Liaison",
+              "Job title": "Corporate Farming Consultant",
+              "Website": "www.dannie-sipes.io",
+              "Seniority": "Product"
+            },
+            {
+              "Industry": "Primary / Secondary Education",
+              "Company": "Goyette-Hartmann",
+              "Profession": "interpreter",
+              "Key Skills": "Proactive",
+              "Email": "sherman.kertzmann@yahoo.com",
+              "Job Field": "Farming",
+              "Job Position": "Architect",
+              "Job title": "Investor Manager",
+              "Website": "www.nida-brekke.info",
+              "Seniority": "Legacy"
+            },
+            {
+              "Industry": "Semiconductors",
+              "Company": "Dicki, Rodriguez and Ernser",
+              "Profession": "biologist",
+              "Key Skills": "Self-motivated",
+              "Email": "tyler.gottlieb@gmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Director",
+              "Job title": "Advertising Consultant",
+              "Website": "www.timothy-marquardt.io",
+              "Seniority": "District"
+            }
+          ]
+        },
+        "7065399": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Information Systems",
+            "GPA": 3.03
+          },
+          "name": "Ken Reinger",
+          "employment": [
+            {
+              "Industry": "Program Development",
+              "Company": "Stiedemann-Wisozk",
+              "Profession": "actor",
+              "Key Skills": "Organisation",
+              "Email": "brett.tremblay@hotmail.com",
+              "Job Field": "Education",
+              "Job Position": "Officer",
+              "Job title": "Senior Officer",
+              "Website": "www.dotty-cruickshank.com",
+              "Seniority": "Legacy"
+            },
+            {
+              "Industry": "Nanotechnology",
+              "Company": "Frami, Yundt and Jenkins",
+              "Profession": "lecturer",
+              "Key Skills": "Proactive",
+              "Email": "terrence.greenholt@yahoo.com",
+              "Job Field": "Banking",
+              "Job Position": "Engineer",
+              "Job title": "Healthcare Agent",
+              "Website": "www.mac-farrell.info",
+              "Seniority": "Internal"
+            }
+          ]
+        },
+        "1694502": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Education",
+            "GPA": 1.77
+          },
+          "name": "Berniece Walsh III",
+          "employment": []
+        }
+      },
+      "faculty": {
+        "4119423": {
+          "courses": [
+            "COMP7281",
+            "COMP9898"
+          ],
+          "name": "Keli Cronin"
+        },
+        "6512405": {
+          "courses": [
+            "COMP7281",
+            "COMP7594",
+            "COMP4006"
+          ],
+          "name": "Elenora Koss"
+        },
+        "6201552": {
+          "courses": [
+            "COMP7281",
+            "COMP6695",
+            "COMP4006",
+            "COMP9898"
+          ],
+          "name": "Margarito Goodwin"
+        }
+      }
+    },
+    "Information Systems": {
+      "courses": {
+        "INFO9246": {
+          "credits": 1,
+          "name": "Legal Legal"
+        }
+      },
+      "students": {
+        "4685173": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Business",
+            "GPA": 3.83
+          },
+          "name": "Heriberto Frami",
+          "employment": [
+            {
+              "Industry": "Real Estate",
+              "Company": "Kuhlman-Rice",
+              "Profession": "lawyer",
+              "Key Skills": "Leadership",
+              "Email": "marielle.gerlach@yahoo.com",
+              "Job Field": "Marketing",
+              "Job Position": "Strategist",
+              "Job title": "Customer Manufacturing Agent",
+              "Website": "www.lorita-baumbach.org",
+              "Seniority": "Direct"
+            }
+          ]
+        },
+        "5627766": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Teaching",
+            "GPA": 0.23
+          },
+          "name": "Jennefer Leffler",
+          "employment": [
+            {
+              "Industry": "Financial Services",
+              "Company": "Wisoky-Lesch",
+              "Profession": "engineer",
+              "Key Skills": "Problem solving",
+              "Email": "sebastian.balistreri@hotmail.com",
+              "Job Field": "Consulting",
+              "Job Position": "Producer",
+              "Job title": "National Farming Officer",
+              "Website": "www.shenna-emmerich.co",
+              "Seniority": "National"
+            },
+            {
+              "Industry": "Package / Freight Delivery",
+              "Company": "Kerluke, Lindgren and Gottlieb",
+              "Profession": "teacher",
+              "Key Skills": "Organisation",
+              "Email": "kimbra.gibson@gmail.com",
+              "Job Field": "Accounting",
+              "Job Position": "Engineer",
+              "Job title": "Marketing Agent",
+              "Website": "www.abram-torp.org",
+              "Seniority": "Global"
+            }
+          ]
+        },
+        "8626294": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Computer Science",
+            "GPA": 1.74
+          },
+          "name": "Bonnie Wilderman",
+          "employment": [
+            {
+              "Industry": "Government Administration",
+              "Company": "Blick-Mertz",
+              "Profession": "soldier",
+              "Key Skills": "Technical savvy",
+              "Email": "efrain.kling@gmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Director",
+              "Job title": "Future Design Facilitator",
+              "Website": "www.cornelius-brekke.com",
+              "Seniority": "International"
+            }
+          ]
+        },
+        "3375908": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Medicine",
+            "GPA": 0.31
+          },
+          "name": "Yen Mayert",
+          "employment": [
+            {
+              "Industry": "Photography",
+              "Company": "Kshlerin-Ullrich",
+              "Profession": "model",
+              "Key Skills": "Communication",
+              "Email": "anton.ritchie@gmail.com",
+              "Job Field": "Accounting",
+              "Job Position": "Designer",
+              "Job title": "Government Representative",
+              "Website": "www.kelsie-ullrich.name",
+              "Seniority": "District"
+            },
+            {
+              "Industry": "Graphic Design",
+              "Company": "Abshire-Schumm",
+              "Profession": "businessman",
+              "Key Skills": "Self-motivated",
+              "Email": "tobias.lemke@yahoo.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Consultant",
+              "Job title": "Real-Estate Agent",
+              "Website": "www.ninfa-pacocha.net",
+              "Seniority": "Legacy"
+            },
+            {
+              "Industry": "Law Enforcement",
+              "Company": "Stark, Lindgren and Upton",
+              "Profession": "taxi driver",
+              "Key Skills": "Communication",
+              "Email": "stanley.breitenberg@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Orchestrator",
+              "Job title": "Hospitality Representative",
+              "Website": "www.brigitte-morar.name",
+              "Seniority": "Forward"
+            }
+          ]
+        },
+        "9292180": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Arts",
+            "GPA": 3.87
+          },
+          "name": "Hisako Greenholt V",
+          "employment": [
+            {
+              "Industry": "Libraries",
+              "Company": "Runolfsdottir Group",
+              "Profession": "judge",
+              "Key Skills": "Communication",
+              "Email": "travis.schmitt@gmail.com",
+              "Job Field": "Advertising",
+              "Job Position": "Consultant",
+              "Job title": "Forward Engineer",
+              "Website": "www.florene-lang.co",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "1335033": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Arts",
+            "GPA": 1.35
+          },
+          "name": "Nila Farrell IV",
+          "employment": []
+        },
+        "9090853": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Engineering",
+            "GPA": 1.78
+          },
+          "name": "Mr. Carlyn Sporer",
+          "employment": [
+            {
+              "Industry": "Hospital \u0026 Health Care",
+              "Company": "Kris LLC",
+              "Profession": "lecturer",
+              "Key Skills": "Fast learner",
+              "Email": "elva.murray@yahoo.com",
+              "Job Field": "Mining",
+              "Job Position": "Developer",
+              "Job title": "Farming Orchestrator",
+              "Website": "www.bettye-hartmann.info",
+              "Seniority": "Customer"
+            },
+            {
+              "Industry": "Libraries",
+              "Company": "Von-Boyer",
+              "Profession": "barber",
+              "Key Skills": "Confidence",
+              "Email": "alanna.towne@hotmail.com",
+              "Job Field": "Sales",
+              "Job Position": "Associate",
+              "Job title": "Technology Technician",
+              "Website": "www.chet-crist.info",
+              "Seniority": "National"
+            },
+            {
+              "Industry": "Management Consulting",
+              "Company": "Funk, Rohan and Christiansen",
+              "Profession": "dietician",
+              "Key Skills": "Problem solving",
+              "Email": "merrie.turcotte@yahoo.com",
+              "Job Field": "Community-Services",
+              "Job Position": "Consultant",
+              "Job title": "Dynamic Farming Assistant",
+              "Website": "www.russel-oreilly.us",
+              "Seniority": "Future"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "8917370": {
+          "courses": [],
+          "name": "Mr. Fernando Wunsch"
+        },
+        "1928928": {
+          "courses": [
+            "INFO9246"
+          ],
+          "name": "Miss Rusty Welch"
+        },
+        "1862899": {
+          "courses": [],
+          "name": "Ji Stokes"
+        }
+      }
+    },
+    "Health Informatics": {
+      "courses": {
+        "HEAL5046": {
+          "credits": 3,
+          "name": "Hospitality Technology"
+        },
+        "HEAL1219": {
+          "credits": 2,
+          "name": "Manufacturing Sales"
+        },
+        "HEAL3848": {
+          "credits": 3,
+          "name": "Real-Estate Marketing"
+        },
+        "HEAL6699": {
+          "credits": 4,
+          "name": "Design Legal"
+        },
+        "HEAL2542": {
+          "credits": 2,
+          "name": "Government Accounting"
+        }
+      },
+      "students": {
+        "4838536": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Architectural Technology",
+            "GPA": 2.54
+          },
+          "name": "Ms. Coleen Marks",
+          "employment": [
+            {
+              "Industry": "Investment Management",
+              "Company": "Ritchie-Gleichner",
+              "Profession": "butcher",
+              "Key Skills": "Technical savvy",
+              "Email": "brendon.kuvalis@yahoo.com",
+              "Job Field": "Education",
+              "Job Position": "Engineer",
+              "Job title": "Senior Marketing Coordinator",
+              "Website": "www.maxwell-moen.io",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "5164237": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Business",
+            "GPA": 0.2
+          },
+          "name": "Orville Kling",
+          "employment": [
+            {
+              "Industry": "Animation",
+              "Company": "Bechtelar LLC",
+              "Profession": "bookkeeper",
+              "Key Skills": "Networking skills",
+              "Email": "ricardo.johns@yahoo.com",
+              "Job Field": "Education",
+              "Job Position": "Technician",
+              "Job title": "District Accounting Coordinator",
+              "Website": "www.clement-smitham.net",
+              "Seniority": "Future"
+            }
+          ]
+        },
+        "9587057": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biological Science",
+            "GPA": 3.25
+          },
+          "name": "Frederica Dach I",
+          "employment": [
+            {
+              "Industry": "Online Media",
+              "Company": "Lowe, Rippin and Corkery",
+              "Profession": "astronomer",
+              "Key Skills": "Communication",
+              "Email": "brady.hegmann@hotmail.com",
+              "Job Field": "Mining",
+              "Job Position": "Analyst",
+              "Job title": "Future Design Manager",
+              "Website": "www.zane-okuneva.co",
+              "Seniority": "Chief"
+            },
+            {
+              "Industry": "Fund-Raising",
+              "Company": "Herman, Larkin and Upton",
+              "Profession": "fiherman",
+              "Key Skills": "Confidence",
+              "Email": "anabel.wyman@hotmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Technician",
+              "Job title": "Lead Technology Coordinator",
+              "Website": "www.toni-mayert.name",
+              "Seniority": "Future"
+            }
+          ]
+        },
+        "9305675": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Design",
+            "GPA": 2.87
+          },
+          "name": "Cami Wisozk",
+          "employment": [
+            {
+              "Industry": "Food \u0026 Beverages",
+              "Company": "Armstrong Group",
+              "Profession": "judge",
+              "Key Skills": "Teamwork",
+              "Email": "bryce.stamm@gmail.com",
+              "Job Field": "Mining",
+              "Job Position": "Architect",
+              "Job title": "International Strategist",
+              "Website": "www.vita-pfeffer.biz",
+              "Seniority": "Regional"
+            }
+          ]
+        },
+        "3627455": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Health Science",
+            "GPA": 3.91
+          },
+          "name": "Rubi Emard",
+          "employment": [
+            {
+              "Industry": "Investment Banking",
+              "Company": "Senger, Kunze and Jerde",
+              "Profession": "hairdresser",
+              "Key Skills": "Proactive",
+              "Email": "syble.lockman@gmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Director",
+              "Job title": "Lead Legal Officer",
+              "Website": "www.sherita-rodriguez.biz",
+              "Seniority": "District"
+            },
+            {
+              "Industry": "Paper \u0026 Forest Products",
+              "Company": "Von and Sons",
+              "Profession": "human resources",
+              "Key Skills": "Technical savvy",
+              "Email": "jerlene.lakin@hotmail.com",
+              "Job Field": "Retail",
+              "Job Position": "Analyst",
+              "Job title": "Direct Technology Associate",
+              "Website": "www.myron-gislason.info",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "8033219": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Arts",
+            "GPA": 1.96
+          },
+          "name": "Jeanett Lebsack",
+          "employment": [
+            {
+              "Industry": "Public Relations and Communications",
+              "Company": "Little Inc",
+              "Profession": "tailor",
+              "Key Skills": "Communication",
+              "Email": "barton.morar@gmail.com",
+              "Job Field": "Mining",
+              "Job Position": "Associate",
+              "Job title": "Regional Hospitality Assistant",
+              "Website": "www.andre-schiller.info",
+              "Seniority": "International"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "2046893": {
+          "courses": [
+            "HEAL1219",
+            "HEAL3848"
+          ],
+          "name": "Darwin Schamberger DDS"
+        },
+        "7062015": {
+          "courses": [
+            "HEAL5046",
+            "HEAL1219",
+            "HEAL3848",
+            "HEAL6699",
+            "HEAL2542"
+          ],
+          "name": "Tabatha Bosco"
+        },
+        "9456405": {
+          "courses": [
+            "HEAL5046",
+            "HEAL3848"
+          ],
+          "name": "Renato Bogisich"
+        },
+        "2890279": {
+          "courses": [
+            "HEAL6699"
+          ],
+          "name": "Osvaldo Hoeger"
+        },
+        "8617119": {
+          "courses": [
+            "HEAL1219",
+            "HEAL3848",
+            "HEAL6699"
+          ],
+          "name": "Elmer Gutmann V"
+        },
+        "3117649": {
+          "courses": [
+            "HEAL5046",
+            "HEAL1219",
+            "HEAL3848",
+            "HEAL6699"
+          ],
+          "name": "Clarita Hermiston"
+        },
+        "5429292": {
+          "courses": [
+            "HEAL5046",
+            "HEAL1219"
+          ],
+          "name": "Lindy McClure"
+        },
+        "9796634": {
+          "courses": [
+            "HEAL5046",
+            "HEAL1219",
+            "HEAL6699",
+            "HEAL2542"
+          ],
+          "name": "Ruthann Medhurst"
+        }
+      }
+    },
+    "History": {
+      "courses": {
+        "HIST3118": {
+          "credits": 2,
+          "name": "Banking Administration"
+        },
+        "HIST4112": {
+          "credits": 4,
+          "name": "Accounting Marketing"
+        },
+        "HIST7622": {
+          "credits": 4,
+          "name": "Marketing Advertising"
+        }
+      },
+      "students": {
+        "2841483": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Forensic Science",
+            "GPA": 0.27
+          },
+          "name": "Aide Schiller",
+          "employment": [
+            {
+              "Industry": "Political Organization",
+              "Company": "Kilback, Aufderhar and Block",
+              "Profession": "teacher",
+              "Key Skills": "Networking skills",
+              "Email": "carmine.schmidt@gmail.com",
+              "Job Field": "Legal",
+              "Job Position": "Planner",
+              "Job title": "Community-Services Architect",
+              "Website": "www.jeremiah-price.io",
+              "Seniority": "Central"
+            },
+            {
+              "Industry": "Consumer Electronics",
+              "Company": "Torp and Sons",
+              "Profession": "builder",
+              "Key Skills": "Organisation",
+              "Email": "dean.sipes@hotmail.com",
+              "Job Field": "Retail",
+              "Job Position": "Executive",
+              "Job title": "Senior Executive",
+              "Website": "www.charles-koelpin.info",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "5497905": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Biomedical Science",
+            "GPA": 2.07
+          },
+          "name": "Freddie Dietrich DVM",
+          "employment": []
+        },
+        "2100306": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Biological Science",
+            "GPA": 2.84
+          },
+          "name": "Annalisa Schmidt DDS",
+          "employment": [
+            {
+              "Industry": "Medical Practice",
+              "Company": "MacGyver-Nitzsche",
+              "Profession": "businessman",
+              "Key Skills": "Teamwork",
+              "Email": "celeste.barrows@gmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Officer",
+              "Job title": "Lead Retail Specialist",
+              "Website": "www.emory-welch.io",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Consumer Electronics",
+              "Company": "Ernser-Ledner",
+              "Profession": "politician",
+              "Key Skills": "Teamwork",
+              "Email": "audrey.skiles@yahoo.com",
+              "Job Field": "Education",
+              "Job Position": "Orchestrator",
+              "Job title": "Legal Administrator",
+              "Website": "www.tad-little.org",
+              "Seniority": "Forward"
+            },
+            {
+              "Industry": "Tobacco",
+              "Company": "Paucek, Goyette and Runolfsdottir",
+              "Profession": "cashier",
+              "Key Skills": "Networking skills",
+              "Email": "cyrus.cummings@gmail.com",
+              "Job Field": "Education",
+              "Job Position": "Planner",
+              "Job title": "Regional Director",
+              "Website": "www.richie-pollich.co",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "3968750": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Arts",
+            "GPA": 2.71
+          },
+          "name": "Telma Gorczany",
+          "employment": [
+            {
+              "Industry": "Accounting",
+              "Company": "Sanford Inc",
+              "Profession": "engineer",
+              "Key Skills": "Problem solving",
+              "Email": "denita.goodwin@gmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Producer",
+              "Job title": "Dynamic Marketing Architect",
+              "Website": "www.serina-witting.info",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "7584069": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Architectural Technology",
+            "GPA": 3.05
+          },
+          "name": "Glen Schaden",
+          "employment": [
+            {
+              "Industry": "Building Materials",
+              "Company": "Flatley Inc",
+              "Profession": "shop assistant",
+              "Key Skills": "Confidence",
+              "Email": "jere.walter@yahoo.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Executive",
+              "Job title": "Lead Supervisor",
+              "Website": "www.laurel-huel.info",
+              "Seniority": "Dynamic"
+            }
+          ]
+        },
+        "8491689": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biomedical Science",
+            "GPA": 2.1
+          },
+          "name": "Son Hansen DDS",
+          "employment": [
+            {
+              "Industry": "Warehousing",
+              "Company": "Halvorson, Monahan and Legros",
+              "Profession": "air traffic controller",
+              "Key Skills": "Communication",
+              "Email": "hannah.mcglynn@hotmail.com",
+              "Job Field": "Design",
+              "Job Position": "Supervisor",
+              "Job title": "Investor Healthcare Developer",
+              "Website": "www.jeniffer-shields.com",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "Higher Education",
+              "Company": "Rutherford-Simonis",
+              "Profession": "chemist",
+              "Key Skills": "Leadership",
+              "Email": "jacques.lueilwitz@hotmail.com",
+              "Job Field": "IT",
+              "Job Position": "Designer",
+              "Job title": "Principal Architect",
+              "Website": "www.darrel-gerhold.info",
+              "Seniority": "Global"
+            }
+          ]
+        },
+        "8958560": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Architectural Technology",
+            "GPA": 2.8
+          },
+          "name": "Alberto Dooley",
+          "employment": [
+            {
+              "Industry": "Human Resources",
+              "Company": "Conroy-Jakubowski",
+              "Profession": "veterinary doctor",
+              "Key Skills": "Teamwork",
+              "Email": "noelle.okuneva@yahoo.com",
+              "Job Field": "Retail",
+              "Job Position": "Manager",
+              "Job title": "Customer Manager",
+              "Website": "www.yoshie-hodkiewicz.io",
+              "Seniority": "Senior"
+            },
+            {
+              "Industry": "Events Services",
+              "Company": "Turcotte, Kuhlman and Macejkovic",
+              "Profession": "painter",
+              "Key Skills": "Problem solving",
+              "Email": "delia.stiedemann@yahoo.com",
+              "Job Field": "Banking",
+              "Job Position": "Consultant",
+              "Job title": "District Construction Director",
+              "Website": "www.rolf-dickinson.net",
+              "Seniority": "Legacy"
+            }
+          ]
+        },
+        "9819533": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Arts",
+            "GPA": 0.09
+          },
+          "name": "Mrs. Theresia Hills",
+          "employment": [
+            {
+              "Industry": "Civil Engineering",
+              "Company": "Miller Group",
+              "Profession": "window cleaner",
+              "Key Skills": "Self-motivated",
+              "Email": "lionel.mosciski@hotmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Coordinator",
+              "Job title": "Consulting Agent",
+              "Website": "www.selene-white.biz",
+              "Seniority": "Internal"
+            }
+          ]
+        },
+        "4755172": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Applied Science (Psychology)",
+            "GPA": 3.58
+          },
+          "name": "Ms. Arielle Von",
+          "employment": []
+        },
+        "1703364": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Creative Arts",
+            "GPA": 0.81
+          },
+          "name": "Kathyrn Littel",
+          "employment": [
+            {
+              "Industry": "Media Production",
+              "Company": "Jerde Inc",
+              "Profession": "dental hygienist",
+              "Key Skills": "Fast learner",
+              "Email": "efrain.dach@yahoo.com",
+              "Job Field": "Hospitality",
+              "Job Position": "Liaison",
+              "Job title": "Regional Construction Developer",
+              "Website": "www.mikel-pfannerstill.co",
+              "Seniority": "Investor"
+            },
+            {
+              "Industry": "Plastics",
+              "Company": "Hickle, Jacobson and Raynor",
+              "Profession": "chemist",
+              "Key Skills": "Proactive",
+              "Email": "louanne.kris@hotmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Director",
+              "Job title": "Banking Liaison",
+              "Website": "www.christoper-boyer.co",
+              "Seniority": "Corporate"
+            }
+          ]
+        },
+        "1624534": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Creative Arts",
+            "GPA": 1.35
+          },
+          "name": "Micah Renner",
+          "employment": [
+            {
+              "Industry": "Broadcast Media",
+              "Company": "Hahn-Shanahan",
+              "Profession": "postman",
+              "Key Skills": "Leadership",
+              "Email": "laura.torp@gmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Technician",
+              "Job title": "Corporate Liaison",
+              "Website": "www.cheryl-howe.co",
+              "Seniority": "Direct"
+            },
+            {
+              "Industry": "Railroad Manufacture",
+              "Company": "Gulgowski Inc",
+              "Profession": "veterinary doctor",
+              "Key Skills": "Communication",
+              "Email": "scott.lueilwitz@yahoo.com",
+              "Job Field": "Advertising",
+              "Job Position": "Administrator",
+              "Job title": "Government Strategist",
+              "Website": "www.tegan-breitenberg.com",
+              "Seniority": "Lead"
+            },
+            {
+              "Industry": "Events Services",
+              "Company": "Boyer-Johnston",
+              "Profession": "astronomer",
+              "Key Skills": "Proactive",
+              "Email": "travis.sauer@yahoo.com",
+              "Job Field": "Legal",
+              "Job Position": "Specialist",
+              "Job title": "Dynamic Sales Engineer",
+              "Website": "www.micheal-okuneva.info",
+              "Seniority": "Principal"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "4884123": {
+          "courses": [
+            "HIST7622"
+          ],
+          "name": "Ms. Irwin Dooley"
+        },
+        "9836308": {
+          "courses": [
+            "HIST7622"
+          ],
+          "name": "Jonas Harris Sr."
+        },
+        "6117022": {
+          "courses": [
+            "HIST3118",
+            "HIST4112",
+            "HIST7622"
+          ],
+          "name": "Donn Johns"
+        },
+        "6776015": {
+          "courses": [
+            "HIST3118",
+            "HIST7622"
+          ],
+          "name": "Isaac Halvorson"
+        },
+        "3404394": {
+          "courses": [],
+          "name": "Alonzo Koelpin"
+        },
+        "1194024": {
+          "courses": [
+            "HIST4112",
+            "HIST7622"
+          ],
+          "name": "Chang Grimes"
+        },
+        "8233255": {
+          "courses": [
+            "HIST3118",
+            "HIST7622"
+          ],
+          "name": "Jamey Jenkins Jr."
+        },
+        "6571464": {
+          "courses": [],
+          "name": "Luciana Hammes"
+        }
+      }
+    },
+    "Electrical Engineering": {
+      "courses": {
+        "ELEC9601": {
+          "credits": 4,
+          "name": "Construction Mining"
+        },
+        "ELEC6106": {
+          "credits": 3,
+          "name": "Sales Advertising"
+        },
+        "ELEC7091": {
+          "credits": 2,
+          "name": "Technology Community-Services"
+        },
+        "ELEC1991": {
+          "credits": 4,
+          "name": "Government Farming"
+        },
+        "ELEC7326": {
+          "credits": 3,
+          "name": "Community-Services Retail"
+        },
+        "ELEC5098": {
+          "credits": 4,
+          "name": "Design Marketing"
+        },
+        "ELEC1823": {
+          "credits": 4,
+          "name": "Marketing IT"
+        }
+      },
+      "students": {
+        "7572082": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Forensic Science",
+            "GPA": 2.98
+          },
+          "name": "Genevie Romaguera DVM",
+          "employment": []
+        },
+        "2671290": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Biomedical Science",
+            "GPA": 3.68
+          },
+          "name": "Viviana Zemlak",
+          "employment": [
+            {
+              "Industry": "Online Media",
+              "Company": "Gerlach, Pacocha and Collier",
+              "Profession": "newsreader",
+              "Key Skills": "Communication",
+              "Email": "leda.jacobs@hotmail.com",
+              "Job Field": "Administration",
+              "Job Position": "Director",
+              "Job title": "Consulting Agent",
+              "Website": "www.reynaldo-nicolas.us",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "International Trade and Development",
+              "Company": "Baumbach, Willms and Herman",
+              "Profession": "butcher",
+              "Key Skills": "Organisation",
+              "Email": "jose.schuppe@hotmail.com",
+              "Job Field": "Banking",
+              "Job Position": "Producer",
+              "Job title": "National IT Associate",
+              "Website": "www.jerrell-sauer.io",
+              "Seniority": "Product"
+            }
+          ]
+        },
+        "1185297": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Associate Degree in Computer Science",
+            "GPA": 0.31
+          },
+          "name": "Loyd Cassin II",
+          "employment": [
+            {
+              "Industry": "Leisure, Travel \u0026 Tourism",
+              "Company": "Hansen-Franecki",
+              "Profession": "carpenter",
+              "Key Skills": "Confidence",
+              "Email": "yan.hand@yahoo.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Planner",
+              "Job title": "Future Technology Director",
+              "Website": "www.millie-hammes.net",
+              "Seniority": "Dynamic"
+            },
+            {
+              "Industry": "Computer Games",
+              "Company": "Feeney LLC",
+              "Profession": "receptionist",
+              "Key Skills": "Communication",
+              "Email": "rodger.keeling@yahoo.com",
+              "Job Field": "Accounting",
+              "Job Position": "Supervisor",
+              "Job title": "Internal Construction Supervisor",
+              "Website": "www.lorita-paucek.co",
+              "Seniority": "Future"
+            },
+            {
+              "Industry": "Glass, Ceramics \u0026 Concrete",
+              "Company": "Stiedemann Inc",
+              "Profession": "musician",
+              "Key Skills": "Problem solving",
+              "Email": "vera.stracke@yahoo.com",
+              "Job Field": "Marketing",
+              "Job Position": "Producer",
+              "Job title": "Marketing Engineer",
+              "Website": "www.carter-friesen.io",
+              "Seniority": "Central"
+            }
+          ]
+        },
+        "9440758": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Biological Science",
+            "GPA": 2.68
+          },
+          "name": "Katie Harris",
+          "employment": [
+            {
+              "Industry": "Public Policy",
+              "Company": "MacGyver, Stark and Tremblay",
+              "Profession": "air traffic controller",
+              "Key Skills": "Organisation",
+              "Email": "danny.donnelly@gmail.com",
+              "Job Field": "Education",
+              "Job Position": "Strategist",
+              "Job title": "Central Analyst",
+              "Website": "www.donte-schumm.info",
+              "Seniority": "Direct"
+            }
+          ]
+        },
+        "3810989": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Bachelor of Arts",
+            "GPA": 2.49
+          },
+          "name": "Almeta Parisian",
+          "employment": [
+            {
+              "Industry": "Veterinary",
+              "Company": "Carter LLC",
+              "Profession": "window cleaner",
+              "Key Skills": "Leadership",
+              "Email": "leonard.feest@hotmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Orchestrator",
+              "Job title": "Administration Designer",
+              "Website": "www.tod-beatty.com",
+              "Seniority": "Internal"
+            },
+            {
+              "Industry": "Food \u0026 Beverages",
+              "Company": "Lindgren-Walker",
+              "Profession": "travel agent",
+              "Key Skills": "Proactive",
+              "Email": "booker.sauer@gmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Orchestrator",
+              "Job title": "Banking Architect",
+              "Website": "www.vera-runte.co",
+              "Seniority": "Central"
+            },
+            {
+              "Industry": "Investment Management",
+              "Company": "Harber LLC",
+              "Profession": "dietician",
+              "Key Skills": "Confidence",
+              "Email": "michal.mckenzie@hotmail.com",
+              "Job Field": "Technology",
+              "Job Position": "Orchestrator",
+              "Job title": "Global Advertising Associate",
+              "Website": "www.bret-schinner.net",
+              "Seniority": "Internal"
+            }
+          ]
+        },
+        "1538220": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Health Science",
+            "GPA": 2.7
+          },
+          "name": "Zachery Stroman",
+          "employment": [
+            {
+              "Industry": "Online Media",
+              "Company": "Franecki, Dicki and Dickens",
+              "Profession": "designer",
+              "Key Skills": "Proactive",
+              "Email": "george.macejkovic@hotmail.com",
+              "Job Field": "Healthcare",
+              "Job Position": "Assistant",
+              "Job title": "Legacy Banking Representative",
+              "Website": "www.sherry-ward.name",
+              "Seniority": "Chief"
+            }
+          ]
+        },
+        "6974727": {
+          "transcript": {
+            "courses taken": {},
+            "degree": "Master of Law",
+            "GPA": 0.43
+          },
+          "name": "Mr. Kay Roob",
+          "employment": [
+            {
+              "Industry": "Outsourcing / Offshoring",
+              "Company": "Johns-Haag",
+              "Profession": "painter",
+              "Key Skills": "Leadership",
+              "Email": "lenard.kilback@gmail.com",
+              "Job Field": "Manufacturing",
+              "Job Position": "Officer",
+              "Job title": "Legacy Facilitator",
+              "Website": "www.gaye-stehr.io",
+              "Seniority": "Regional"
+            },
+            {
+              "Industry": "Government Administration",
+              "Company": "Doyle Inc",
+              "Profession": "programmer",
+              "Key Skills": "Organisation",
+              "Email": "tim.mueller@hotmail.com",
+              "Job Field": "Farming",
+              "Job Position": "Assistant",
+              "Job title": "Farming Officer",
+              "Website": "www.angelita-gleason.info",
+              "Seniority": "Human"
+            },
+            {
+              "Industry": "Financial Services",
+              "Company": "Bailey-Stehr",
+              "Profession": "teacher",
+              "Key Skills": "Confidence",
+              "Email": "bev.carter@hotmail.com",
+              "Job Field": "Construction",
+              "Job Position": "Orchestrator",
+              "Job title": "Education Analyst",
+              "Website": "www.grady-kovacek.biz",
+              "Seniority": "Global"
+            }
+          ]
+        }
+      },
+      "faculty": {
+        "4407972": {
+          "courses": [
+            "ELEC7091",
+            "ELEC1991"
+          ],
+          "name": "Adrianne Ankunding"
+        },
+        "5622122": {
+          "courses": [
+            "ELEC6106",
+            "ELEC1823"
+          ],
+          "name": "Kristina Jast"
+        }
+      }
+    }
+  }
+}
